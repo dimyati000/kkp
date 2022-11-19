@@ -1,15 +1,4 @@
 
-   <footer class="main-footer">
-        <div class="footer-left">
-          Copyright &copy; 2022 <div class="bullet"></div> Design By <a href="https://www.linkedin.com/in/nih-latulia-rohmah-tiyas-122128246/">Nih Latulia Rohmah Tiyas</a>
-        </div>
-        <div class="footer-right">
-          2.3.0
-        </div>
-      </footer>
-    </div>
-  </div>
-
   <!-- General JS Scripts -->
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
@@ -32,5 +21,3 @@
 
   <!-- Page Specific JS File -->
   <script src="<?php echo base_url() ?>assets/js/page/index-0.js"></script>
-</body>
-</html>
