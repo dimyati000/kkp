@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "c-mash",
+			"path": "../../../../c-mash"
+		},
+		{
+			"name": "ecommerce-furniture",
+			"path": "../../../../ecommerce-furniture"
+		},
+		{
+			"name": "kkp",
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../stisla"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kkp"
+	}
+}
