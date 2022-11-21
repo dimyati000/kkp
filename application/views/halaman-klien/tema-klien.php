@@ -10,36 +10,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- favicon -->
 		<link rel="apple-touch-icon" href="apple-touch-icon.png">
-		<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url() ?>assets/images/fav.png">
-		<!-- Bootstrap v4.4.1 css -->
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/klien/css/bootstrap.min.css">
-		<!-- font-awesome css -->
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/klien/css/font-awesome.min.css">
-		<!-- Uicons Regular Rounded css -->
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/klien/css/uicons-regular-rounded.css">
-		<!-- flaticon css -->
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/klien/fonts/flaticon.css">
-		<!-- animate css -->
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/klien/css/animate.css">
-		<!-- slick css -->
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/klien/klien/css/slick.css">
-		<!-- owl.carousel css -->
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/klien/css/owl.carousel.css">
-		<!-- off canvas css -->
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/klien/css/off-canvas.css">
-		<!-- magnific popup css -->
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/klien/css/magnific-popup.css">
-		<!-- Main Menu css -->
-		<link rel="stylesheet" href="<?php echo base_url(); ?>assets/klien/css/rsmenu-main.css">
-		<!-- nivo slider CSS -->
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/klien/inc/custom-slider/css/nivo-slider.css">
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/klien/inc/custom-slider/css/preview.css">
-		<!-- spacing css -->
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/klien/css/rs-spacing.css">
-		<!-- style css -->
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/klien/css/style.css"> <!-- This stylesheet dynamically changed from style.less -->
-		<!-- responsive css -->
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/klien/css/responsive.css">
+		<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url() ?>assets/img/logo-kkp.jpg">
+		<?php include('tata-letak-klien/tema-css.php') ?>
 		
 	</head>
 	<body class="defult-home">
@@ -50,7 +22,7 @@
 	   	<div id="pre-load">
             <div id="loader" class="loader">
                 <div class="loader-container">
-                    <div class="loader-icon"><img src="<?php echo base_url(); ?><?php echo base_url(); ?>assets/klien/images/fav.png" alt="Konstruk - Construction & Building Html Template "></div>
+                    <div class="loader-icon"><img src="<?php echo base_url() ?>assets/klien/images/fav.png" alt="Konstruk - Construction & Building Html Template "></div>
                 </div>
             </div>              
         </div>
@@ -108,8 +80,8 @@
 								<div class="col-cell header-logo">                                  
 								    <div class="logo-area">
 								        <a href="index.html">
-								            <img class="normal-logo" src="<?php echo base_url(); ?>assets/klien/images/logo-dark.png" alt="logo">  
-								            <img class="sticky-logo" src="<?php echo base_url(); ?>assets/klien/images/logo-dark.png" alt="logo">
+								            <img class="normal-logo" src="<?php echo base_url() ?>assets/klien/images/logo-dark.png" alt="logo">  
+								            <img class="sticky-logo" src="<?php echo base_url() ?>assets/klien/images/logo-dark.png" alt="logo">
 								        </a>
 								    </div>
 								</div>
@@ -430,15 +402,15 @@
 			<div id="rs-slider" class="rs-slider rs-slider-style2">
 			    <div class="bend niceties">
 			        <div id="nivoSlider" class="slides">
-			            <img src="<?php echo base_url(); ?>assets/klien/images/slider/style1/h1-1.jpg" alt="" title="#slide-1" />
-			            <img class="slies-img" src="<?php echo base_url(); ?>assets/klien/images/slider/style1/h1-2.jpg" alt="" title="#slide-22" />
+			            <img src="<?php echo base_url() ?>assets/klien/images/slider/style1/h1-1.jpg" alt="" title="#slide-1" />
+			            <img class="slies-img" src="<?php echo base_url() ?>assets/klien/images/slider/style1/h1-2.jpg" alt="" title="#slide-22" />
 			        </div>
 			        <!-- Slide 1 -->
 			        <div id="slide-1" class="slider-direction">
 			           <div class="container">
 			           		<div class="content-part">
 			           		    <span class="sl-subtitle">
-			           		    	<img class="sl-icons" src="<?php echo base_url(); ?>assets/klien/images/slider/style1/shapes/icons3.png" alt="Images">
+			           		    	<img class="sl-icons" src="<?php echo base_url() ?>assets/klien/images/slider/style1/shapes/icons3.png" alt="Images">
 			           		   		Construction Business
 			           			</span>
 			           		    <h1 class="sl-title">
@@ -455,13 +427,13 @@
 			           		</div>
 			           		<div class="animation-wrap">
 			           			<div class="animate-style one">
-			           				<img class="sl-icons1" src="<?php echo base_url(); ?>assets/klien/images/slider/style1/shapes/icons1.png" alt="Images">
+			           				<img class="sl-icons1" src="<?php echo base_url() ?>assets/klien/images/slider/style1/shapes/icons1.png" alt="Images">
 			           			</div>
 			           			<div class="animate-style two">
-			           				<img class="sl-icons1" src="<?php echo base_url(); ?>assets/klien/images/slider/style1/shapes/icons2.png" alt="Images">
+			           				<img class="sl-icons1" src="<?php echo base_url() ?>assets/klien/images/slider/style1/shapes/icons2.png" alt="Images">
 			           			</div>
 			           			<div class="animate-style three">
-			           				<img class="sl-icons1" src="<?php echo base_url(); ?>assets/klien/images/slider/style1/shapes/icons2.png" alt="Images">
+			           				<img class="sl-icons1" src="<?php echo base_url() ?>assets/klien/images/slider/style1/shapes/icons2.png" alt="Images">
 			           			</div>
 			           		</div>
 			           </div>
@@ -471,7 +443,7 @@
 			        	<div class="container-side-slide2">
 		        			<div class="content-part">
 		        			    <span class="sl-subtitle1">
-		        			    	<img class="sl-icons" src="<?php echo base_url(); ?>assets/klien/images/slider/style1/shapes/icons3.png" alt="Images">
+		        			    	<img class="sl-icons" src="<?php echo base_url() ?>assets/klien/images/slider/style1/shapes/icons3.png" alt="Images">
 		        			    	Construction Business
 		        			    </span>
 		        			    <h1 class="sl-title1">
@@ -488,13 +460,13 @@
 		        			</div>
 		        			<div class="animation-wrap2">
 		        				<div class="animate-style one">
-		        					<img class="sl-icons2" src="<?php echo base_url(); ?>assets/klien/images/slider/style1/shapes/icons1.png" alt="Images">
+		        					<img class="sl-icons2" src="<?php echo base_url() ?>assets/klien/images/slider/style1/shapes/icons1.png" alt="Images">
 		        				</div>
 		        				<div class="animate-style two">
-		        					<img class="sl-icons2" src="<?php echo base_url(); ?>assets/klien/images/slider/style1/shapes/icons2.png" alt="Images">
+		        					<img class="sl-icons2" src="<?php echo base_url() ?>assets/klien/images/slider/style1/shapes/icons2.png" alt="Images">
 		        				</div>
 		        				<div class="animate-style three">
-		        					<img class="sl-icons2" src="<?php echo base_url(); ?>assets/klien/images/slider/style1/shapes/icons2.png" alt="Images">
+		        					<img class="sl-icons2" src="<?php echo base_url() ?>assets/klien/images/slider/style1/shapes/icons2.png" alt="Images">
 		        				</div>
 		        			</div>
 			        	</div>
@@ -509,13 +481,13 @@
 					<div class="row y-middle">
 						<div class="col-lg-6 md-mb-50">
 							<div class="images-part">
-								<img src="<?php echo base_url(); ?>assets/klien/images/about/style1/about.png" alt="About">
+								<img src="<?php echo base_url() ?>assets/klien/images/about/style1/about.png" alt="About">
 							</div>
 						</div>
 						<div class="col-lg-6 pl-50 md-pl-15">
 							<div class="sec-title">
 								<span class="sub-text">
-									<img src="<?php echo base_url(); ?>assets/klien/images/shape-1.png" alt="Images">
+									<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
 									Who We Are
 								</span>
 								<h2 class="title pb-20">
@@ -529,7 +501,7 @@
 								<div class="row y-middle">
 									<div class="col-lg-4 col-md-4 sm-mb-30">
 										<div class="about-img">
-											<img src="<?php echo base_url(); ?>assets/klien/images/about/style1/abzt.jpg" alt="About">
+											<img src="<?php echo base_url() ?>assets/klien/images/about/style1/abzt.jpg" alt="About">
 										</div>
 									</div>
 									<div class="col-lg-8 col-md-8">
@@ -563,7 +535,7 @@
 									</div>
 									<div class="col-lg-6 col-md-8">
 										<div class="signeture-img">
-											<img src="<?php echo base_url(); ?>assets/klien/images/about/style1/signeture1.png" alt="Images">
+											<img src="<?php echo base_url() ?>assets/klien/images/about/style1/signeture1.png" alt="Images">
 										</div>
 									</div>
 								</div>
@@ -579,7 +551,7 @@
 			    <div class="container">
 			    	<div class="sec-title text-center mb-55 md-mb-35">
 			    		<span class="sub-text">
-			    			<img src="<?php echo base_url(); ?>assets/klien/images/shape-1.png" alt="Images">
+			    			<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
 			    			What We Do
 			    		</span>
 			    		<h2 class="title">
@@ -592,12 +564,12 @@
 			    			<div class="services-item">
 			    				<div class="services-wrap">
 			    					<div class="services-image">
-			    						<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-img/servic-1.jpg" alt="Services">
+			    						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-img/servic-1.jpg" alt="Services">
 			    					</div>
 			    					<div class="services-content">
 			    						<div class="service-inner">
 			    							<div class="icon-top">
-			    								<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-icons/service-icon1.png" alt="Services">
+			    								<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon1.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
 			    								<h3 class="title"><a href="general-construction.html">General construction</a></h3>
@@ -613,7 +585,7 @@
 			    							<h3 class="title"><a href="general-construction.html">General construction</a></h3>
 			    						</div>
 			    						<div class="icon-image">
-			    							<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-icons/service-icon1.png" alt="Services">
+			    							<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon1.png" alt="Services">
 			    						</div>
 			    					</div>
 			    				</div>
@@ -623,12 +595,12 @@
 			    			<div class="services-item">
 			    				<div class="services-wrap">
 			    					<div class="services-image">
-			    						<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-img/servic-2.jpg" alt="Services">
+			    						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-img/servic-2.jpg" alt="Services">
 			    					</div>
 			    					<div class="services-content">
 			    						<div class="service-inner">
 			    							<div class="icon-top">
-			    								<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-icons/service-icon2.png" alt="Services">
+			    								<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon2.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
 			    								<h3 class="title"><a href="property-maintenance.html">Property maintenance</a></h3>
@@ -644,7 +616,7 @@
 			    							<h3 class="title"><a href="property-maintenance.html">Property maintenance</a></h3>
 			    						</div>
 			    						<div class="icon-image">
-			    							<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-icons/service-icon2.png" alt="Services">
+			    							<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon2.png" alt="Services">
 			    						</div>
 			    					</div>
 			    				</div>
@@ -654,12 +626,12 @@
 			    			<div class="services-item">
 			    				<div class="services-wrap">
 			    					<div class="services-image">
-			    						<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-img/servic-3.jpg" alt="Services">
+			    						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-img/servic-3.jpg" alt="Services">
 			    					</div>
 			    					<div class="services-content">
 			    						<div class="service-inner">
 			    							<div class="icon-top">
-			    								<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-icons/service-icon3.png" alt="Services">
+			    								<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon3.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
 			    								<h3 class="title"><a href="project-managment.html">Project managment</a></h3>
@@ -675,7 +647,7 @@
 			    							<h3 class="title"><a href="project-managment.html">Project managment</a></h3>
 			    						</div>
 			    						<div class="icon-image">
-			    							<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-icons/service-icon3.png" alt="Services">
+			    							<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon3.png" alt="Services">
 			    						</div>
 			    					</div>
 			    				</div>
@@ -685,12 +657,12 @@
 			    			<div class="services-item">
 			    				<div class="services-wrap">
 			    					<div class="services-image">
-			    						<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-img/servic-4.jpg" alt="Services">
+			    						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-img/servic-4.jpg" alt="Services">
 			    					</div>
 			    					<div class="services-content">
 			    						<div class="service-inner">
 			    							<div class="icon-top">
-			    								<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-icons/service-icon4.png" alt="Services">
+			    								<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon4.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
 			    								<h3 class="title"><a href="virtual-design-build.html">Virtual design & build</a></h3>
@@ -706,7 +678,7 @@
 			    							<h3 class="title"><a href="virtual-design-build.html">Virtual design & build</a></h3>
 			    						</div>
 			    						<div class="icon-image">
-			    							<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-icons/service-icon4.png" alt="Services">
+			    							<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon4.png" alt="Services">
 			    						</div>
 			    					</div>
 			    				</div>
@@ -716,12 +688,12 @@
 			    			<div class="services-item">
 			    				<div class="services-wrap">
 			    					<div class="services-image">
-			    						<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-img/servic-5.jpg" alt="Services">
+			    						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-img/servic-5.jpg" alt="Services">
 			    					</div>
 			    					<div class="services-content">
 			    						<div class="service-inner">
 			    							<div class="icon-top">
-			    								<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-icons/service-icon5.png" alt="Services">
+			    								<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon5.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
 			    								<h3 class="title"><a href="preconstruction.html">Preconstruction</a></h3>
@@ -737,7 +709,7 @@
 			    							<h3 class="title"><a href="preconstruction.html">Preconstruction</a></h3>
 			    						</div>
 			    						<div class="icon-image">
-			    							<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-icons/service-icon5.png" alt="Services">
+			    							<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon5.png" alt="Services">
 			    						</div>
 			    					</div>
 			    				</div>
@@ -747,12 +719,12 @@
 			    			<div class="services-item">
 			    				<div class="services-wrap">
 			    					<div class="services-image">
-			    						<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-img/servic-6.jpg" alt="Services">
+			    						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-img/servic-6.jpg" alt="Services">
 			    					</div>
 			    					<div class="services-content">
 			    						<div class="service-inner">
 			    							<div class="icon-top">
-			    								<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-icons/service-icon6.png" alt="Services">
+			    								<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon6.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
 			    								<h3 class="title"><a href="design-build.html">Design build</a></h3>
@@ -768,7 +740,7 @@
 			    							<h3 class="title"><a href="design-build.html">Design build</a></h3>
 			    						</div>
 			    						<div class="icon-image">
-			    							<img src="<?php echo base_url(); ?>assets/klien/images/services/main-home/main-icons/service-icon6.png" alt="Services">
+			    							<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon6.png" alt="Services">
 			    						</div>
 			    					</div>
 			    				</div>
@@ -786,7 +758,7 @@
 						<div class="col-lg-6 md-mb-50">
 							<div class="sec-title">
 								<span class="sub-text yellow-color">
-									<img src="<?php echo base_url(); ?>assets/klien/images/shape-1.png" alt="Images">
+									<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
 									Number talks
 								</span>
 								<h2 class="title white-color pb-20">
@@ -861,7 +833,7 @@
 						<div class="faq-content">
 							<div class="sec-title mb-40">
 								<span class="sub-text">
-									<img src="<?php echo base_url(); ?>assets/klien/images/shape-1.png" alt="Images">
+									<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
 									Your Benefit
 								</span>
 								<h2 class="title">
@@ -913,7 +885,7 @@
 			    <div class="container">
 			    	<div class="sec-title text-center mb-45">
 			    		<span class="sub-text">
-			    			<img src="<?php echo base_url(); ?>assets/klien/images/shape-1.png" alt="Images">
+			    			<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
 			    			Projects
 			    		</span>
 			    		<h2 class="title">
@@ -931,7 +903,7 @@
 			            <div class="col-lg-4 col-md-6 mb-30 grid-item filter1">
 			                <div class="project-item">
 			                    <div class="project-img">
-			                        <a href="projects-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/project/style1/1.jpg" alt="images"></a>
+			                        <a href="projects-single.html"><img src="<?php echo base_url() ?>assets/klien/images/project/style1/1.jpg" alt="images"></a>
 			                    </div>
 			                    <div class="project-content">  
 			                        <div class="project-inner">
@@ -945,7 +917,7 @@
 			            <div class="col-lg-4 col-md-6 mb-30 grid-item filter3 filter1">
 			                <div class="project-item">
 			                    <div class="project-img">
-			                        <a href="projects-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/project/style1/2.jpg" alt="images"></a>
+			                        <a href="projects-single.html"><img src="<?php echo base_url() ?>assets/klien/images/project/style1/2.jpg" alt="images"></a>
 			                    </div>
 			                    <div class="project-content">  
 			                        <div class="project-inner">
@@ -959,7 +931,7 @@
 			            <div class="col-lg-4 col-md-6 mb-30 grid-item filter2 filter4">
 			               <div class="project-item">
 			                   <div class="project-img">
-			                       <a href="projects-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/project/style1/3.jpg" alt="images"></a>
+			                       <a href="projects-single.html"><img src="<?php echo base_url() ?>assets/klien/images/project/style1/3.jpg" alt="images"></a>
 			                   </div>
 			                   <div class="project-content">  
 			                       <div class="project-inner">
@@ -973,7 +945,7 @@
 			            <div class="col-lg-4 col-md-6 md-mb-30 grid-item filter2 filter3">
 			               <div class="project-item">
 			                   <div class="project-img">
-			                       <a href="projects-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/project/style1/4.jpg" alt="images"></a>
+			                       <a href="projects-single.html"><img src="<?php echo base_url() ?>assets/klien/images/project/style1/4.jpg" alt="images"></a>
 			                   </div>
 			                   <div class="project-content">  
 			                       <div class="project-inner">
@@ -987,7 +959,7 @@
 			            <div class="col-lg-4 col-md-6 sm-mb-30 grid-item filter3 filter4">
 			                <div class="project-item">
 			                    <div class="project-img">
-			                        <a href="projects-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/project/style1/5.jpg" alt="images"></a>
+			                        <a href="projects-single.html"><img src="<?php echo base_url() ?>assets/klien/images/project/style1/5.jpg" alt="images"></a>
 			                    </div>
 			                    <div class="project-content">  
 			                        <div class="project-inner">
@@ -1001,7 +973,7 @@
 			            <div class="col-lg-4 col-md-6 grid-item filter2 filter4">
 			               	<div class="project-item">
 			               	    <div class="project-img">
-			               	        <a href="projects-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/project/style1/6.jpg" alt="images"></a>
+			               	        <a href="projects-single.html"><img src="<?php echo base_url() ?>assets/klien/images/project/style1/6.jpg" alt="images"></a>
 			               	    </div>
 			               	    <div class="project-content">  
 			               	        <div class="project-inner">
@@ -1033,7 +1005,7 @@
 						<div class="widget-wrap-content">
 							<div class="sec-title mb-46 md-mb-25">
 								<span class="sub-text">
-									<img src="<?php echo base_url(); ?>assets/klien/images/shape-1.png" alt="Images">
+									<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
 									Why Choose Us
 								</span>
 								<h2 class="title pb-20">
@@ -1151,7 +1123,7 @@
 		        		<div class="col-lg-6 md-mb-50">
 		        			<div class="sec-title mb-45">
 		        				<span class="sub-text">
-		        					<img src="<?php echo base_url(); ?>assets/klien/images/shape-1.png" alt="Images">
+		        					<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
 		        					Testimonials
 		        				</span>
 		        				<h2 class="title">
@@ -1162,12 +1134,12 @@
 		        				<div class="slider testi-slide-1">
 		        					<div class="testi-item">
 		        					   <div class="item-content">
-		        					   		<span><img src="<?php echo base_url(); ?>assets/klien/images/testimonial/style1/quote.png" alt="Testimonial"></span>
+		        					   		<span><img src="<?php echo base_url() ?>assets/klien/images/testimonial/style1/quote.png" alt="Testimonial"></span>
 		        					   		<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
 		        					   </div>
 		        					   <div class="testi-content">
 		        					   		<div class="image-wrap">
-		        					   			<img src="<?php echo base_url(); ?>assets/klien/images/testimonial/style1/testi1.jpg" alt="Testimonial">
+		        					   			<img src="<?php echo base_url() ?>assets/klien/images/testimonial/style1/testi1.jpg" alt="Testimonial">
 		        					   		</div>
 		        					   		<div class="testi-information">
 		        					   			<div class="testi-name">David M. Martin</div>
@@ -1177,12 +1149,12 @@
 		        					</div>
 		        					<div class="testi-item">
 		        					   <div class="item-content">
-		        					   		<span><img src="<?php echo base_url(); ?>assets/klien/images/testimonial/style1/quote.png" alt="Testimonial"></span>
+		        					   		<span><img src="<?php echo base_url() ?>assets/klien/images/testimonial/style1/quote.png" alt="Testimonial"></span>
 		        					   		<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
 		        					   </div>
 		        					   <div class="testi-content">
 		        					   		<div class="image-wrap">
-		        					   			<img src="<?php echo base_url(); ?>assets/klien/images/testimonial/style1/testi2.jpg" alt="Testimonial">
+		        					   			<img src="<?php echo base_url() ?>assets/klien/images/testimonial/style1/testi2.jpg" alt="Testimonial">
 		        					   		</div>
 		        					   		<div class="testi-information">
 		        					   			<div class="testi-name">Angel Puspa</div>
@@ -1198,7 +1170,7 @@
 		        			<div class="rs-team team-style1">
 			        			<div class="sec-title mb-45">
 			        				<span class="sub-text">
-			        					<img src="<?php echo base_url(); ?>assets/klien/images/shape-1.png" alt="Images">
+			        					<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
 			        					Team Members
 			        				</span>
 			        				<h2 class="title">
@@ -1210,7 +1182,7 @@
 		       				           <div class="slider slider-for">
 		       				               <div class="team-inner-wrap">
 		       				                   <div class="image-wrap">
-		       				                       	<a href="team-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/team/tm1.jpg" alt="Team"></a>
+		       				                       	<a href="team-single.html"><img src="<?php echo base_url() ?>assets/klien/images/team/tm1.jpg" alt="Team"></a>
 		       				                   </div>
 		       				                   <div class="team-content">
 		       				                   		<h3 class="title"><a href="team-single.html">Davis Youn</a></h3>
@@ -1219,7 +1191,7 @@
 		       				               </div>
 		       				               <div class="team-inner-wrap">
 		       				                   <div class="image-wrap">
-		       				                       	<a href="team-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/team/tm2.jpg" alt="Team"></a>
+		       				                       	<a href="team-single.html"><img src="<?php echo base_url() ?>assets/klien/images/team/tm2.jpg" alt="Team"></a>
 		       				                   </div>
 		       				                   <div class="team-content">
 		       				                   		<h3 class="title"><a href="team-single.html">Eng Forhad Ahmad</a></h3>
@@ -1228,7 +1200,7 @@
 		       				               </div>
 		       				               <div class="team-inner-wrap">
 		       				                   <div class="image-wrap">
-		       				                       	<a href="team-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/team/tm3.jpg" alt="Team"></a>
+		       				                       	<a href="team-single.html"><img src="<?php echo base_url() ?>assets/klien/images/team/tm3.jpg" alt="Team"></a>
 		       				                   </div>
 		       				                   <div class="team-content">
 		       				                   		<h3 class="title"><a href="team-single.html">Masud Maria</a></h3>
@@ -1237,7 +1209,7 @@
 		       				               </div>
 		       				               <div class="team-inner-wrap">
 		       				                   <div class="image-wrap">
-		       				                       	<a href="team-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/team/tm4.jpg" alt="Team"></a>
+		       				                       	<a href="team-single.html"><img src="<?php echo base_url() ?>assets/klien/images/team/tm4.jpg" alt="Team"></a>
 		       				                   </div>
 		       				                   <div class="team-content">
 		       				                   		<h3 class="title"><a href="team-single.html">Shahinur Islam</a></h3>
@@ -1246,7 +1218,7 @@
 		       				               </div>
 		       				               <div class="team-inner-wrap">
 		       				                   <div class="image-wrap">
-		       				                       	<a href="team-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/team/tm5.jpg" alt="Team"></a>
+		       				                       	<a href="team-single.html"><img src="<?php echo base_url() ?>assets/klien/images/team/tm5.jpg" alt="Team"></a>
 		       				                   </div>
 		       				                   <div class="team-content">
 		       				                   		<h3 class="title"><a href="team-single.html">Abdur Rashid</a></h3>
@@ -1255,7 +1227,7 @@
 		       				               </div>
 		       				               <div class="team-inner-wrap">
 		       				                   <div class="image-wrap">
-		       				                       	<a href="team-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/team/tm6.jpg" alt="Team"></a>
+		       				                       	<a href="team-single.html"><img src="<?php echo base_url() ?>assets/klien/images/team/tm6.jpg" alt="Team"></a>
 		       				                   </div>
 		       				                   <div class="team-content">
 		       				                   		<h3 class="title"><a href="team-single.html">Deluar Hossen</a></h3>
@@ -1265,22 +1237,22 @@
 		       				           </div>
 		       				           <div class="slider slider-nav">
 		       				               <div class="images-list">
-		       				                   <a href="team-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/team/tm1.jpg" alt="Team"></a>
+		       				                   <a href="team-single.html"><img src="<?php echo base_url() ?>assets/klien/images/team/tm1.jpg" alt="Team"></a>
 		       				               </div>
 		       				               <div class="images-list">
-		       				                   <a href="team-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/team/tm2.jpg" alt="Team"></a>
+		       				                   <a href="team-single.html"><img src="<?php echo base_url() ?>assets/klien/images/team/tm2.jpg" alt="Team"></a>
 		       				               </div>
 		       				               <div class="images-list">
-		       				                   <a href="team-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/team/tm3.jpg" alt="Team"></a>
+		       				                   <a href="team-single.html"><img src="<?php echo base_url() ?>assets/klien/images/team/tm3.jpg" alt="Team"></a>
 		       				               </div>
 		       				               <div class="images-list">
-		       				                   <a href="team-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/team/tm4.jpg" alt="Team"></a>
+		       				                   <a href="team-single.html"><img src="<?php echo base_url() ?>assets/klien/images/team/tm4.jpg" alt="Team"></a>
 		       				               </div>
 		       				               <div class="images-list">
-		       				                   <a href="team-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/team/tm5.jpg" alt="Team"></a>
+		       				                   <a href="team-single.html"><img src="<?php echo base_url() ?>assets/klien/images/team/tm5.jpg" alt="Team"></a>
 		       				               </div>
 		       				               <div class="images-list">
-		       				                   <a href="team-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/team/tm6.jpg" alt="Team"></a>
+		       				                   <a href="team-single.html"><img src="<?php echo base_url() ?>assets/klien/images/team/tm6.jpg" alt="Team"></a>
 		       				               </div>
 		       				           </div>
 		       				       </div>
@@ -1324,44 +1296,44 @@
 	        	        	    data-mobile-device-dots="false">  
 	        	        	    <div class="logo-img">
 	        	        	        <a href="https://devsdesign.net">
-	        	        	            <img class="hovers-logos rs-grid-img" src="<?php echo base_url(); ?>assets/klien/images/partner/style1/1.png" title="" alt="">
-	        	        	            <img class="mains-logos rs-grid-img " src="<?php echo base_url(); ?>assets/klien/images/partner/style1/1.png" title="" alt="">
+	        	        	            <img class="hovers-logos rs-grid-img" src="<?php echo base_url() ?>assets/klien/images/partner/style1/1.png" title="" alt="">
+	        	        	            <img class="mains-logos rs-grid-img " src="<?php echo base_url() ?>assets/klien/images/partner/style1/1.png" title="" alt="">
 	        	        	        </a>
 	        	        	    </div>
 	        	        	    <div class="logo-img">
 	        	        	        <a href="https://devsdesign.net">
-	        	        	            <img class="hovers-logos rs-grid-img" src="<?php echo base_url(); ?>assets/klien/images/partner/style1/2.png" title="" alt="">
-	        	        	            <img class="mains-logos rs-grid-img " src="<?php echo base_url(); ?>assets/klien/images/partner/style1/2.png" title="" alt="">
+	        	        	            <img class="hovers-logos rs-grid-img" src="<?php echo base_url() ?>assets/klien/images/partner/style1/2.png" title="" alt="">
+	        	        	            <img class="mains-logos rs-grid-img " src="<?php echo base_url() ?>assets/klien/images/partner/style1/2.png" title="" alt="">
 	        	        	        </a>
 	        	        	    </div>
 	        	        	    <div class="logo-img">
 	        	        	        <a href="https://devsdesign.net">
-	        	        	            <img class="hovers-logos rs-grid-img" src="<?php echo base_url(); ?>assets/klien/images/partner/style1/3.png" title="" alt="">
-	        	        	            <img class="mains-logos rs-grid-img " src="<?php echo base_url(); ?>assets/klien/images/partner/style1/3.png" title="" alt="">
+	        	        	            <img class="hovers-logos rs-grid-img" src="<?php echo base_url() ?>assets/klien/images/partner/style1/3.png" title="" alt="">
+	        	        	            <img class="mains-logos rs-grid-img " src="<?php echo base_url() ?>assets/klien/images/partner/style1/3.png" title="" alt="">
 	        	        	        </a>
 	        	        	    </div>
 	        	        	    <div class="logo-img">
 	        	        	        <a href="https://devsdesign.net">
-	        	        	            <img class="hovers-logos rs-grid-img" src="<?php echo base_url(); ?>assets/klien/images/partner/style1/4.png" title="" alt="">
-	        	        	            <img class="mains-logos rs-grid-img " src="<?php echo base_url(); ?>assets/klien/images/partner/style1/4.png" title="" alt="">
+	        	        	            <img class="hovers-logos rs-grid-img" src="<?php echo base_url() ?>assets/klien/images/partner/style1/4.png" title="" alt="">
+	        	        	            <img class="mains-logos rs-grid-img " src="<?php echo base_url() ?>assets/klien/images/partner/style1/4.png" title="" alt="">
 	        	        	        </a>
 	        	        	    </div>
 	        	        	    <div class="logo-img">
 	        	        	        <a href="https://devsdesign.net">
-	        	        	            <img class="hovers-logos rs-grid-img" src="<?php echo base_url(); ?>assets/klien/images/partner/style1/5.png" title="" alt="">
-	        	        	            <img class="mains-logos rs-grid-img " src="<?php echo base_url(); ?>assets/klien/images/partner/style1/5.png" title="" alt="">
+	        	        	            <img class="hovers-logos rs-grid-img" src="<?php echo base_url() ?>assets/klien/images/partner/style1/5.png" title="" alt="">
+	        	        	            <img class="mains-logos rs-grid-img " src="<?php echo base_url() ?>assets/klien/images/partner/style1/5.png" title="" alt="">
 	        	        	        </a>
 	        	        	    </div>
 	        	        	    <div class="logo-img">
 	        	        	        <a href="https://devsdesign.net">
-	        	        	            <img class="hovers-logos rs-grid-img" src="<?php echo base_url(); ?>assets/klien/images/partner/style1/6.png" title="" alt="">
-	        	        	            <img class="mains-logos rs-grid-img " src="<?php echo base_url(); ?>assets/klien/images/partner/style1/6.png" title="" alt="">
+	        	        	            <img class="hovers-logos rs-grid-img" src="<?php echo base_url() ?>assets/klien/images/partner/style1/6.png" title="" alt="">
+	        	        	            <img class="mains-logos rs-grid-img " src="<?php echo base_url() ?>assets/klien/images/partner/style1/6.png" title="" alt="">
 	        	        	        </a>
 	        	        	    </div>
 	        	        	    <div class="logo-img">
 	        	        	        <a href="https://devsdesign.net">
-	        	        	            <img class="hovers-logos rs-grid-img" src="<?php echo base_url(); ?>assets/klien/images/partner/style1/7.png" title="" alt="">
-	        	        	            <img class="mains-logos rs-grid-img " src="<?php echo base_url(); ?>assets/klien/images/partner/style1/7.png" title="" alt="">
+	        	        	            <img class="hovers-logos rs-grid-img" src="<?php echo base_url() ?>assets/klien/images/partner/style1/7.png" title="" alt="">
+	        	        	            <img class="mains-logos rs-grid-img " src="<?php echo base_url() ?>assets/klien/images/partner/style1/7.png" title="" alt="">
 	        	        	        </a>
 	        	        	    </div>
 	        	        	</div>
@@ -1380,7 +1352,7 @@
 	   	                    <div class="contact-wrap">
 	   	                    	<div class="sec-title mb-45">
 	   	                    		<span class="sub-text">
-	   	                    			<img src="<?php echo base_url(); ?>assets/klien/images/shape-1.png" alt="Images">
+	   	                    			<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
 	   	                    			Lets talk
 	   	                    		</span>
 	   	                    		<h2 class="title">
@@ -1421,7 +1393,7 @@
 	   	    			<div class="contact-box-item">
 				    		<div class="contact-box mb-20">
 			                    <div class="contact-icon">
-			                        <img src="<?php echo base_url(); ?>assets/klien/images/contact/style1/icons/1.png" alt="images">
+			                        <img src="<?php echo base_url() ?>assets/klien/images/contact/style1/icons/1.png" alt="images">
 			                    </div>
 			                    <div class="content-text">
 			                        <h4 class="title"><a href="#">USA office</a></h4>
@@ -1430,7 +1402,7 @@
 			                </div>
 			                <div class="contact-box mb-20">
 			                    <div class="contact-icon">
-			                        <img src="<?php echo base_url(); ?>assets/klien/images/contact/style1/icons/2.png" alt="images">
+			                        <img src="<?php echo base_url() ?>assets/klien/images/contact/style1/icons/2.png" alt="images">
 			                    </div>
 			                    <div class="content-text">
 			                        <h4 class="title"><a href="#">Email us</a></h4>
@@ -1442,7 +1414,7 @@
 			                </div>
 			                <div class="contact-box">
 			                    <div class="contact-icon">
-			                        <img src="<?php echo base_url(); ?>assets/klien/images/contact/style1/icons/3.png" alt="images">
+			                        <img src="<?php echo base_url() ?>assets/klien/images/contact/style1/icons/3.png" alt="images">
 			                    </div>
 			                    <div class="content-text">
 			                        <h4 class="title"><a href="#">Call us</a></h4>
@@ -1464,7 +1436,7 @@
 			    <div class="container">  
 			        <div class="sec-title text-center mb-45 md-mb-25">
 			        	<span class="sub-text">
-			        		<img src="<?php echo base_url(); ?>assets/klien/images/shape-1.png" alt="Images">
+			        		<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
 			        		News & Blog
 			        	</span>
 			        	<h2 class="title">
@@ -1475,7 +1447,7 @@
 			        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="false" data-md-device-dots="false">
 			            <div class="blog-item">
 			                <div class="image-wrap">
-			                    <a href="blog-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/blog/style1/1.jpg" alt=""></a>
+			                    <a href="blog-single.html"><img src="<?php echo base_url() ?>assets/klien/images/blog/style1/1.jpg" alt=""></a>
 			                </div>
 			                <div class="blog-content">
 			                	<ul class="blog-meta">
@@ -1488,7 +1460,7 @@
 			            </div>
 			            <div class="blog-item">
 			                <div class="image-wrap">
-			                    <a href="blog-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/blog/style1/2.jpg" alt=""></a>
+			                    <a href="blog-single.html"><img src="<?php echo base_url() ?>assets/klien/images/blog/style1/2.jpg" alt=""></a>
 			                </div>
 			                <div class="blog-content">
 			                	<ul class="blog-meta">
@@ -1501,7 +1473,7 @@
 			            </div>
 			            <div class="blog-item">
 			                <div class="image-wrap">
-			                    <a href="blog-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/blog/style1/3.jpg" alt=""></a>
+			                    <a href="blog-single.html"><img src="<?php echo base_url() ?>assets/klien/images/blog/style1/3.jpg" alt=""></a>
 			                </div>
 			                <div class="blog-content">
 			                	<ul class="blog-meta">
@@ -1514,7 +1486,7 @@
 			            </div>
 			            <div class="blog-item">
 			                <div class="image-wrap">
-			                    <a href="blog-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/blog/style1/4.jpg" alt=""></a>
+			                    <a href="blog-single.html"><img src="<?php echo base_url() ?>assets/klien/images/blog/style1/4.jpg" alt=""></a>
 			                </div>
 			                <div class="blog-content">
 			                	<ul class="blog-meta">
@@ -1527,7 +1499,7 @@
 			            </div>
 			            <div class="blog-item">
 			                <div class="image-wrap">
-			                    <a href="blog-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/blog/style1/5.jpg" alt=""></a>
+			                    <a href="blog-single.html"><img src="<?php echo base_url() ?>assets/klien/images/blog/style1/5.jpg" alt=""></a>
 			                </div>
 			                <div class="blog-content">
 			                	<ul class="blog-meta">
@@ -1540,7 +1512,7 @@
 			            </div>
 			            <div class="blog-item">
 			                <div class="image-wrap">
-			                    <a href="blog-single.html"><img src="<?php echo base_url(); ?>assets/klien/images/blog/style1/6.jpg" alt=""></a>
+			                    <a href="blog-single.html"><img src="<?php echo base_url() ?>assets/klien/images/blog/style1/6.jpg" alt=""></a>
 			                </div>
 			                <div class="blog-content">
 			                	<ul class="blog-meta">
@@ -1562,7 +1534,7 @@
 					<div class="call-action">
 						<div class="sec-title text-center">
 							<span class="sub-text yellow-color">
-								<img src="<?php echo base_url(); ?>assets/klien/images/shape-1.png" alt="Images">
+								<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
 								Work With Us !
 							</span>
 							<h2 class="title white-color pb-20">
@@ -1584,97 +1556,7 @@
 		</div> 
 		<!-- Main content End -->
 	 
-		<!-- Footer Start -->
-		<footer id="rs-footer" class="rs-footer footer-main-home">
-			<div class="footer-top">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-3 pr-20 md-pr-15 md-mb-20">
-							<div class="footer-logo mb-51 md-mb-30">
-								<a href="index.html"><img src="<?php echo base_url(); ?>assets/klien/images/logo-white.png" alt=""></a>
-							</div>
-							<div class="textwidget">
-								<p class="pb-20">Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eiusmod tempor in cididunt ut labore.</p>
-								<p class="pb-25"><strong>Opening Hours</strong> : Monday – Sat: 9am to 6pm</p>
-							</div>
-							<ul class="footer-social md-mb-30">  
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>                     
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>                     
-                                <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>                     
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>                     
-                          	</ul>
-						</div>
-						<div class="col-lg-3 md-mb-10">
-							<h3 class="footer-title">Contact Info</h3>
-							<ul class="address-widget">
-                                <li>
-                                    <i class="fi fi-rr-map-marker-home"></i>
-                                    <div class="desc">
-                                    	Ta-134/A, Gulshan Badda Link<br>
-                                    	Rd, Dhaka
-									</div>
-                                </li>
-                                <li>
-                                    <i class="fi fi-rr-phone-call"></i>
-                                    <div class="desc">
-                                       <a href="tel:(+880)15569569365">(+880)155 69569 365</a><br>
-                                       <a href="tel:(+880)15569569366">(+880)155 69569 366</a>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fi fi-rr-envelope-plus"></i>
-                                    <div class="desc">
-                                        <a href="mailto:support@devsdesign.com">support@devsdesign.com</a><br>
-                                        <a href="mailto:infoname@gmail.com">infoname@gmail.com</a>
-                                    </div>
-                                </li>
-                            </ul>
-						</div>
-						<div class="col-lg-3 md-mb-10">
-							<h3 class="footer-title">Our Services</h3>
-							<ul class="site-map">
-                                <li><a href="general-construction.html">General Construction</a></li>
-                                <li><a href="property-maintenance.html">Property Maintenance</a></li>
-                                <li><a href="project-managment.html">Project Managment</a></li>
-                                <li><a href="virtual-design-build.html">Virtual Design & Build</a></li>
-                                <li><a href="preconstruction.html">Preconstruction</a></li>
-                                <li><a href="design-build.html">Design Build</a></li>
-                            </ul>
-						</div>
-						<div class="col-lg-3">
-							<h3 class="footer-title">Newsletter</h3>
-							<p class="widget-desc">Tetur adipiscing elit, sed do eiusmod tempor in cididunt ut labore.</p>
-							<p>
-                                <input type="email" name="email" placeholder="Your Email Address" required="">
-                                <input type="submit" value="Subscribe Now">
-                            </p>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="footer-bottom">
-                <div class="container">                    
-                    <div class="row y-middle">
-                        <div class="col-lg-6 md-mb-10 text-lg-end text-center order-last">
-                            <ul class="copy-right-menu">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="services.html">Services</a></li>
-                                <li><a href="#">Pages</a></li>
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="contact.html">Contact</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="copyright text-lg-start text-center">
-                                <p>© 2022 Konstruk.  Designed By <a href="https://devsdesign.net" target="blank">Devsdesign</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-		</footer>
-		<!-- Footer End -->
+		<?php include('tata-letak-klien/tema-bawah.php') ?>
 
 		<!-- start scrollUp  -->
 		<div id="scrollUp">
@@ -1698,37 +1580,6 @@
 		</div>
 		<!-- Search Modal End -->
 
-		<!-- modernizr js -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/modernizr-2.8.3.min.js"></script>
-		<!-- jquery latest version -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/jquery.min.js"></script>
-		<!-- Bootstrap v4.4.1 js -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/bootstrap.min.js"></script>
-		<!-- op nav js -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/jquery.nav.js"></script>
-		<!-- owl.carousel js -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/owl.carousel.min.js"></script>
-		<!-- isotope.pkgd.min js -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/isotope.pkgd.min.js"></script>
-		<!-- wow js -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/wow.min.js"></script>
-		<!-- Skill bar js -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/skill.bars.jquery.js"></script>
-		<!-- imagesloaded js -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/imagesloaded.pkgd.min.js"></script>
-		<!-- Slick js -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/slick.min.js"></script>
-		<!-- waypoints.min js -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/waypoints.min.js"></script>
-		<!-- magnific popup js -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/jquery.magnific-popup.min.js"></script>
-		<!-- counterup.min js -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/jquery.counterup.min.js"></script> 
-		<!-- Nivo slider js -->
-		<script src="<?php echo base_url(); ?>assets/klien/inc/custom-slider/js/jquery.nivo.slider.js"></script>		
-		<!-- contact form js -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/contact.form.js"></script>
-		<!-- main js -->
-		<script src="<?php echo base_url(); ?>assets/klien/js/main.js"></script>
+		<?php include('tata-letak-klien/tema-js.php') ?>
 	</body>
 </html>
