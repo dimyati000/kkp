@@ -80,7 +80,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="copyright text-lg-start text-center">
-                                <p>© 2022 KKP | Designed By <a href="#">Kantor Konsultasi Pajak dan Hukum Eko & Rekan</a>
+                                <p>© 2022 Kantor Konsultasi Pajak dan Hukum | Designed By <a href="#">Eko & Rekan</a>
                                     <!-- href="https://www.linkedin.com/in/nih-latulia-rohmah-tiyas-122128246/">Nih Latulia Rohmah Tiyas</a> -->
                                     
                             </div>

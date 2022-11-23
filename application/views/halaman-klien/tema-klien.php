@@ -80,8 +80,8 @@
 								<div class="col-cell header-logo">                                  
 								    <div class="logo-area">
 								        <a href="index.html">
-								            <img class="normal-logo" src="<?php echo base_url() ?>assets/klien/images/logo-dark.png" alt="logo">  
-								            <img class="sticky-logo" src="<?php echo base_url() ?>assets/klien/images/logo-dark.png" alt="logo">
+								            <img class="normal-logo" src="<?php echo base_url() ?>assets/img/logo-kkp.jpg" alt="logo">  
+								            <img class="sticky-logo" src="<?php echo base_url() ?>assets/img/logo-kkp.jpg" alt="logo">
 								        </a>
 								    </div>
 								</div>
