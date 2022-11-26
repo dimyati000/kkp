@@ -3,14 +3,14 @@
 	<head>
 		<!-- meta tag -->
 		<meta charset="utf-8">
-		<title>Main Home - Konstruk - Construction & Building HTML Template</title>
+		<title>Kantor Konsultan Pajak dan Hukum</title>
 		<meta name="description" content="">
 		<!-- responsive tag -->
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- favicon -->
 		<link rel="apple-touch-icon" href="apple-touch-icon.png">
-		<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url() ?>assets/img/logo-kkp.jpg">
+		<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url() ?>assets/img/logo-kkp-transparan.png">
 		<?php include('tata-letak-klien/tema-css.php') ?>
 		
 	</head>
@@ -22,7 +22,7 @@
 	   	<div id="pre-load">
             <div id="loader" class="loader">
                 <div class="loader-container">
-                    <div class="loader-icon"><img src="<?php echo base_url() ?>assets/klien/images/fav.png" alt="Konstruk - Construction & Building Html Template "></div>
+                    <div class="loader-icon"><img  style="width: 80%"; src="<?php echo base_url() ?>assets/klien/images/fav.png" alt="Kantor Konsultasi Pajak"></div>
                 </div>
             </div>              
         </div>
@@ -44,15 +44,17 @@
 										<ul class="rs-contact-info">                   
 											<li>
 					                            <i class="fi fi-rr-envelope-plus"></i>                  
-					                            <a href="mailto:info@konstruk.com">info@konstruk.com</a>               
+					                            <a href="mailto:info@konstruk.com">kkpekobudisetiawan@gmail.com</a>               
 					                        </li>
 	                                        <li>
                                               	<i class="fi fi-rr-phone-call"></i>                                      
-                                                <a href="tel:(+1)7854-333-222"> (+1) 7854-333-222</a>                   
+                                                <a href="tel:(+1)7854-333-222"> (+62) 813-3190-7979</a>                   
                                             </li>
                                             <li>
                                               	<i class="fi-rr-map-marker-home"></i>                                      
-                                                31 New Street, NY, USA             
+                                                Taman Anggun Sejahtera IV, 
+                                                Cluster Gardenia Blok D2-07, 
+                                                Sidodadi, Candi, Sidoarjo             
                                             </li>
 										</ul>
 									</div>
@@ -60,7 +62,7 @@
 								<div class="col-lg-5">
 									<div class="toolbar-sl-share">
 										<ul class="clearfix">
-											<li class="opening"> <em><i class="fi fi-rr-time-add"></i> Hours: Mon-Fri: 9.00 am - 7.00 pm</em> </li>
+											<li class="opening"> <em><i class="fi fi-rr-time-add"></i> Jam Pelayanan : Mon-Sat: 8.00 am - 5.00 pm</em> </li>
 											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
@@ -161,7 +163,7 @@
 															    </ul>
 															</li>
 															<li class="last-item menu-item-has-children">
-															    <a href="#">Projects</a>
+															    <a href="#">Proyek</a>
 															    <ul class="sub-menu">
 															        <li><a href="projects-style1.html">Projects Style 1</a></li>
 															        <li><a href="projects-style2.html">Projects Style 2</a></li>
@@ -402,8 +404,8 @@
 			<div id="rs-slider" class="rs-slider rs-slider-style2">
 			    <div class="bend niceties">
 			        <div id="nivoSlider" class="slides">
-			            <img src="<?php echo base_url() ?>assets/klien/images/slider/style1/h1-1.jpg" alt="" title="#slide-1" />
-			            <img class="slies-img" src="<?php echo base_url() ?>assets/klien/images/slider/style1/h1-2.jpg" alt="" title="#slide-22" />
+			            <img src="<?php echo base_url() ?>assets/img/unsplash/bg-landingpage2.jpg" alt="" title="#slide-1" />
+			            <img class="slies-img" src="<?php echo base_url() ?>assets/img/unsplash/bg-landingpage2.jpg" alt="" title="#slide-22" />
 			        </div>
 			        <!-- Slide 1 -->
 			        <div id="slide-1" class="slider-direction">
@@ -411,18 +413,20 @@
 			           		<div class="content-part">
 			           		    <span class="sl-subtitle">
 			           		    	<img class="sl-icons" src="<?php echo base_url() ?>assets/klien/images/slider/style1/shapes/icons3.png" alt="Images">
-			           		   		Semangat Tiyas
+
+			           		   		Konsultasi Pajak dan Hukum
 			           			</span>
 			           		    <h1 class="sl-title">
-			           		    	We build something<br>
-			           		    	new and consistent.<br>
+			           		    	Melayani Konsultasi Pajak,<br> 
+			           		    	Akuntansi dan Hukum<br>
+			           		    	terjamin<br>
 			           		    </h1>
 			           		    <p class="sl-desc">
-			           		    	No matter where or what you want to build, we mobilize the right experts<br> 
-			           		    	to drive value and realize your project consistent goals. 		
+			           		    	Terpercaya dalam kerahasiaan data dan kemudahan pengusaha<br> 
+			           		    	untuk mengurus legalitas. 		
 			           		    </p>
 			           		   	<div class="slider-bottom">
-			           		   	    <a class="readon more" href="contact.html">Discover More</a>
+			           		   	    <a class="readon more" href="contact.html">Mulai Sekarang</a>
 			           		   	</div>
 			           		</div>
 			           		<div class="animation-wrap">
@@ -443,7 +447,7 @@
 			        	<div class="container-side-slide2">
 		        			<div class="content-part">
 		        			    <span class="sl-subtitle1">
-		        			    	<img class="sl-icons" src="<?php echo base_url() ?>assets/klien/images/slider/style1/shapes/icons3.png" alt="Images">
+		        			    	<img class="sl-icons" src="<?php echo base_url() ?>assets/img/unsplash/bg2.jpg" alt="Images">
 		        			    	Construction Business
 		        			    </span>
 		        			    <h1 class="sl-title1">
@@ -488,15 +492,10 @@
 							<div class="sec-title">
 								<span class="sub-text">
 									<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
-									Who We Are
+									Tentang Kami
 								</span>
-								<h2 class="title pb-20">
-									Construction solutions focused future ready
-								</h2>
 								<p class="desc pb-37">
-									Leverage agile frameworks to provide a robust synopsis for high 
-									level overviews. Iterative approaches to corporate strategy data 
-									foster to collaborative thinking to empowerment.
+									Kantor Konsultan Pajak dan Hukum Terdaftar Eko dan Rekan membantu anda untuk memahami, mengelola dan membantu anda dalam memberikan layanan konsultasi usaha anda. Sehingga anda dapat lebih fokus dalam mengembangkan bisnis anda. Kantor Konsultan Pajak dan Hukum Terdaftar Eko dan Rekan memiliki tim dan konsultan yang berpengalaman dibidangnya sehingga anda dapat mengurangi resiko usaha dikemudian hari.
 								</p>
 								<div class="row y-middle">
 									<div class="col-lg-4 col-md-4 sm-mb-30">
@@ -510,19 +509,19 @@
 												<span class="icon-list-icon">
 													<i class="fa fa-check-circle"></i>						
 												</span>
-												<span class="list-text">Pre-construction services</span>
+												<span class="list-text">Jasa Perpajakan</span>
 											</li>
 											<li class="list-item">
 												<span class="icon-list-icon">
 													<i class="fa fa-check-circle"></i>						
 												</span>
-												<span class="list-text">Industrial manufacturing</span>
+												<span class="list-text">Jasa Akuntansi</span>
 											</li>
 											<li class="list-item">
 												<span class="icon-list-icon">
 													<i class="fa fa-check-circle"></i>						
 												</span>
-												<span class="list-text">Building and construction</span>
+												<span class="list-text">Jasa Hukum</span>
 											</li>
 				        				</ul>
 									</div>
@@ -530,13 +529,13 @@
 								<div class="row mt-47 md-mt-25">
 									<div  class="col-lg-6 col-md-4 sm-mb-30">
 										<div class="btn-part">
-											<a class="readon more know" href="about.html">Know more</a>
+											<a class="readon more know" href="about.html">Selengkapnya</a>
 										</div>
 									</div>
-									<div class="col-lg-6 col-md-8">
+									<!-- <div class="col-lg-6 col-md-8">
 										<div class="signeture-img">
 											<img src="<?php echo base_url() ?>assets/klien/images/about/style1/signeture1.png" alt="Images">
-										</div>
+										</div> -->
 									</div>
 								</div>
 							</div>
@@ -552,12 +551,13 @@
 			    	<div class="sec-title text-center mb-55 md-mb-35">
 			    		<span class="sub-text">
 			    			<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
-			    			What We Do
+			    			Apa Saja Jasa yang diberikan?
 			    		</span>
-			    		<h2 class="title">
-			    			Develop comprehensive solutions<br> 
-			    			for each project
-			    		</h2>
+			    		<!-- <h2 class="title">
+			    			Konsultan Pajak dan Hukum terdaftar Eko dan<br> 
+			    			Rekan memiliki berbagai macam jenis jasa<br>
+			    			perpajakan, akuntansi dan hukum<br>
+			    		</h2> -->
 			    	</div>
 			    	<div class="row">
 			    		<div class="col-xl-4 col-md-6 mb-30">
@@ -572,17 +572,17 @@
 			    								<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon1.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
-			    								<h3 class="title"><a href="general-construction.html">General construction</a></h3>
+			    								<h3 class="title"><a href="general-construction.html">Konsultasi Pelaporan Pajak Bulanan</a></h3>
 			    							</div>
-			    							<p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
+			    							<p class="services-txt">PPh 21, PPh 23, PPh 25/26, PPh Final berdasarkan PP No.23 Tahun 2018, PPN.</p>
 			    							<div class="services-btn">
-			    								<a class="btn-text" href="general-construction.html">Read More</a>
+			    								<a class="btn-text" href="general-construction.html">Baca Selengkapnya</a>
 			    							</div>
 			    						</div>
 			    					</div>
 			    					<div class="normarl-text-area">
 			    						<div class="services-titles">
-			    							<h3 class="title"><a href="general-construction.html">General construction</a></h3>
+			    							<h3 class="title"><a href="general-construction.html">Konsultasi Pelaporan Pajak Bulanan</a></h3>
 			    						</div>
 			    						<div class="icon-image">
 			    							<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon1.png" alt="Services">
@@ -603,17 +603,17 @@
 			    								<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon2.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
-			    								<h3 class="title"><a href="property-maintenance.html">Property maintenance</a></h3>
+			    								<h3 class="title"><a href="property-maintenance.html">Konsultasi Pelaporan Pajak Tahunan</a></h3>
 			    							</div>
-			    							<p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
+			    							<p class="services-txt">Perhitungan,Penyetoran, Pelaporan SPT Tahunan PPh Pasal 29 orang pribadi dan badan.</p>
 			    							<div class="services-btn">
-			    								<a class="btn-text" href="property-maintenance.html">Read More</a>
+			    								<a class="btn-text" href="property-maintenance.html">Baca Selengkapnya</a>
 			    							</div>
 			    						</div>
 			    					</div>
 			    					<div class="normarl-text-area">
 			    						<div class="services-titles">
-			    							<h3 class="title"><a href="property-maintenance.html">Property maintenance</a></h3>
+			    							<h3 class="title"><a href="property-maintenance.html">Konsultasi Pelaporan Pajak Tahunan</a></h3>
 			    						</div>
 			    						<div class="icon-image">
 			    							<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon2.png" alt="Services">
@@ -634,17 +634,17 @@
 			    								<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon3.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
-			    								<h3 class="title"><a href="project-managment.html">Project managment</a></h3>
+			    								<h3 class="title"><a href="project-managment.html">Konsultasi Permasalahan Pajak</a></h3>
 			    							</div>
-			    							<p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
+			    							<p class="services-txt">Membantu menyelesaikan masalah yang sering terjadi seperti merasa tidak perlu bayar pajak, tidak melaporkan penghasilan lainnya, kesalahan administrasi, dll.</p>
 			    							<div class="services-btn">
-			    								<a class="btn-text" href="project-managment.html">Read More</a>
+			    								<a class="btn-text" href="project-managment.html">Baca Selengkapnya</a>
 			    							</div>
 			    						</div>
 			    					</div>
 			    					<div class="normarl-text-area">
 			    						<div class="services-titles">
-			    							<h3 class="title"><a href="project-managment.html">Project managment</a></h3>
+			    							<h3 class="title"><a href="project-managment.html">Konsultasi Permasalahan Pajak</a></h3>
 			    						</div>
 			    						<div class="icon-image">
 			    							<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon3.png" alt="Services">
@@ -665,17 +665,17 @@
 			    								<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon4.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
-			    								<h3 class="title"><a href="virtual-design-build.html">Virtual design & build</a></h3>
+			    								<h3 class="title"><a href="virtual-design-build.html">Pendampingan SP2DK</a></h3>
 			    							</div>
-			    							<p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
+			    							<p class="services-txt">Membantu mempersiapkan surat jawaban berdasarkan data-data yang dimiliki, Melakukan analisa resiko pajak lainnya yang berkaitan dan memberikan saran untuk langkah-langkah yang tepat, dll.</p>
 			    							<div class="services-btn">
-			    								<a class="btn-text" href="virtual-design-build.html">Read More</a>
+			    								<a class="btn-text" href="virtual-design-build.html">Baca Selengkapnya</a>
 			    							</div>
 			    						</div>
 			    					</div>
 			    					<div class="normarl-text-area">
 			    						<div class="services-titles">
-			    							<h3 class="title"><a href="virtual-design-build.html">Virtual design & build</a></h3>
+			    							<h3 class="title"><a href="virtual-design-build.html">Pendampingan SP2DK</a></h3>
 			    						</div>
 			    						<div class="icon-image">
 			    							<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon4.png" alt="Services">
@@ -696,17 +696,17 @@
 			    								<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon5.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
-			    								<h3 class="title"><a href="preconstruction.html">Preconstruction</a></h3>
+			    								<h3 class="title"><a href="preconstruction.html">Jasa Akuntansi</a></h3>
 			    							</div>
-			    							<p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
+			    							<p class="services-txt">Menyusun buku neraca, software akuntansi beserta implementasinya.</p>
 			    							<div class="services-btn">
-			    								<a class="btn-text" href="preconstruction.html">Read More</a>
+			    								<a class="btn-text" href="preconstruction.html">Baca Selengkapnya</a>
 			    							</div>
 			    						</div>
 			    					</div>
 			    					<div class="normarl-text-area">
 			    						<div class="services-titles">
-			    							<h3 class="title"><a href="preconstruction.html">Preconstruction</a></h3>
+			    							<h3 class="title"><a href="preconstruction.html">Jasa Akuntansi</a></h3>
 			    						</div>
 			    						<div class="icon-image">
 			    							<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon5.png" alt="Services">
@@ -727,17 +727,17 @@
 			    								<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon6.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
-			    								<h3 class="title"><a href="design-build.html">Design build</a></h3>
+			    								<h3 class="title"><a href="design-build.html">Jasa Lawyer/Pengacara</a></h3>
 			    							</div>
-			    							<p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
+			    							<p class="services-txt">Perceraian, Pidana Umum, Utang Piutang, Pertanahan, dan Gugatan PMH.</p>
 			    							<div class="services-btn">
-			    								<a class="btn-text" href="design-build.html">Read More</a>
+			    								<a class="btn-text" href="design-build.html">Baca Selengkapnya</a>
 			    							</div>
 			    						</div>
 			    					</div>
 			    					<div class="normarl-text-area">
 			    						<div class="services-titles">
-			    							<h3 class="title"><a href="design-build.html">Design build</a></h3>
+			    							<h3 class="title"><a href="design-build.html">Jasa Lawyer/Pengacara</a></h3>
 			    						</div>
 			    						<div class="icon-image">
 			    							<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon6.png" alt="Services">
@@ -762,14 +762,14 @@
 									Number talks
 								</span>
 								<h2 class="title white-color pb-20">
-									Konstruk will help you get<br> 
-									things complete reality.
+									Mulai Konsultasikan Pajak dan Bisnis anda dan<br> 
+									berkembang bersama kami.<br>
 								</h2>
 								<p class="desc desc2 pb-45">
-									Konstruk will help you get things complete reality.
+									Yuk segera konsultasi.
 								</p>
 								<div class="btn-part">
-									<a class="readon more contact" href="contact.html">Contact Now</a>
+									<a class="readon more contact" href="contact.html">Mulai Konsultasi</a>
 								</div>
 							</div>
 						</div>
@@ -834,41 +834,61 @@
 							<div class="sec-title mb-40">
 								<span class="sub-text">
 									<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
-									Your Benefit
+									Mengapa memilih kami?
 								</span>
-								<h2 class="title">
+								<!-- <h2 class="title">
 									Build better futures with<br> 
 									steady focus on quality
-								</h2>
+								</h2> -->
 							</div>
                            	<div id="accordion" class="accordion">
                               	<div class="card">
                                   	<div class="card-header">
-                                    	<a class="card-link" href="#" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true">We are a global family that values diversity.</a>
+                                    	<a class="card-link" href="#" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true">Profesional.</a>
                                   	</div>
                                   	<div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
                                       	<div class="card-body">
-                                        	Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally cumstances occur in which toil and pain can procuresteady steady. 
+                                        	Proses pengerjaan dilakukan oleh konsultan berpengalaman dan tersertifikasi. 
                                       	</div>
                                  	</div>
                               	</div>
                                	<div class="card">
                                    	<div class="card-header">
-                                       <a class="card-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false">We own and shape our future.</a>
+                                       <a class="card-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false">Berpengalaman</a>
                                    	</div>
                                    	<div id="collapseTwo" class="collapse" data-bs-parent="#accordion" style="">
                                        	<div class="card-body">
-                                            Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally cumstances occur in which toil and pain can procuresteady steady. 
+                                            Berpengalaman lebih dari 10 Tahun dibidang jasa konsultan pajak, akuntansi dan hukum. 
                                        	</div>
                                    	</div>
                                	</div>
                                	<div class="card">
                                    	<div class="card-header">
-                                       <a class="card-link collapsed last-margin" href="#" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false">We create sustainable growth.</a>
+                                       <a class="card-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false">Aman dan Rahasia</a>
+                                   	</div>
+                                   	<div id="collapseTwo" class="collapse" data-bs-parent="#accordion" style="">
+                                       	<div class="card-body">
+                                            Keamanan data anda merupakan prioritas utama kami. Kami menjamin kerahasiaan data yang anda berikan. 
+                                       	</div>
+                                   	</div>
+                               	</div>
+                               	<div class="card">
+                                   	<div class="card-header">
+                                       <a class="card-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false">Cepat dan Akurat</a>
+                                   	</div>
+                                   	<div id="collapseTwo" class="collapse" data-bs-parent="#accordion" style="">
+                                       	<div class="card-body">
+                                            Pengerjaan dilakukan dengan teliti, cepat dan detail sehingga dapat terselesaikan tepat waktu dengan hasil yang akurat. 
+                                       	</div>
+                                   	</div>
+                               	</div>
+                               	<div class="card">
+                                   	<div class="card-header">
+                                       <a class="card-link collapsed last-margin" href="#" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false">Gratis Konsultasi</a>
                                    	</div>
                                    	<div id="collapseThree" class="collapse" data-bs-parent="#accordion" style="">
                                        	<div class="card-body">
-                                           	Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally cumstances occur in which toil and pain can procuresteady steady. 
+                                           	Anda akan mendapatkan layanan konsultasi gratis sebelum memutuskan memilih jasa yang tepat. 
                                        	</div>
                                    	</div>
                               	</div>
@@ -886,19 +906,19 @@
 			    	<div class="sec-title text-center mb-45">
 			    		<span class="sub-text">
 			    			<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
-			    			Projects
+			    			Proyek
 			    		</span>
 			    		<h2 class="title">
-			    			Latest completed projects
+			    			Proyek baru-baru ini
 			    		</h2>
 			    	</div>
-			        <div class="gridFilter gridfilter-style2 mb-47 text-center">
+			        <!-- <div class="gridFilter gridfilter-style2 mb-47 text-center">
 			            <button class="active" data-filter="*">All</button>
 			            <button data-filter=".filter1">Architecture</button>
 			            <button data-filter=".filter2">House & Exterior</button>
 			            <button data-filter=".filter3">House Renovation</button>
 			            <button data-filter=".filter4">Interiors</button>
-			        </div>                    
+			        </div> -->                    
 			        <div class="row grid">
 			            <div class="col-lg-4 col-md-6 mb-30 grid-item filter1">
 			                <div class="project-item">
@@ -907,8 +927,7 @@
 			                    </div>
 			                    <div class="project-content">  
 			                        <div class="project-inner">
-			                            <h3 class="title"><a href="projects-single.html">Blue Glass Building</a></h3>
-			                            <span class="category"><a href="projects-single.html">Architecture</a></span>
+			                            <h3 class="title"><a href="projects-single.html">Perdagangan Minyak Industri dan Transportasi</a></h3>
 			                        </div>
 			                        <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
 			                    </div>
@@ -921,8 +940,7 @@
 			                    </div>
 			                    <div class="project-content">  
 			                        <div class="project-inner">
-			                            <h3 class="title"><a href="projects-single.html">Ferguson Family YMCA</a></h3>
-			                            <span class="category"><a href="projects-single.html">Architecture</a></span>
+			                            <h3 class="title"><a href="projects-single.html">Perdagangan Agen LPG</a></h3>
 			                        </div>
 			                        <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
 			                    </div>
@@ -935,8 +953,7 @@
 			                   </div>
 			                   <div class="project-content">  
 			                       <div class="project-inner">
-			                           <h3 class="title"><a href="projects-single.html">Stone Harbor</a></h3>
-			                           <span class="category"><a href="projects-single.html">House & Exterior</a></span>
+			                           <h3 class="title"><a href="projects-single.html">Industri Hasil Laut</a></h3>
 			                       </div>
 			                       <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
 			                   </div>
@@ -949,8 +966,7 @@
 			                   </div>
 			                   <div class="project-content">  
 			                       <div class="project-inner">
-			                           <h3 class="title"><a href="projects-single.html">Hyatt Regency</a></h3>
-			                           <span class="category"><a href="projects-single.html">House & Exterior</a></span>
+			                           <h3 class="title"><a href="projects-single.html">Industri Galangan Kapal</a></h3>
 			                       </div>
 			                       <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
 			                   </div>
@@ -963,8 +979,7 @@
 			                    </div>
 			                    <div class="project-content">  
 			                        <div class="project-inner">
-			                            <h3 class="title"><a href="projects-single.html">Eisenhower Elementary</a></h3>
-			                            <span class="category"><a href="projects-single.html">Interiors</a></span>
+			                            <h3 class="title"><a href="projects-single.html">Jasa Kelayakan Project dan Perbankan</a></h3>
 			                        </div>
 			                        <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
 			                    </div>
@@ -977,8 +992,7 @@
 			               	    </div>
 			               	    <div class="project-content">  
 			               	        <div class="project-inner">
-			               	            <h3 class="title"><a href="projects-single.html">Edison Middle School</a></h3>
-			               	            <span class="category"><a href="projects-single.html">Interiors</a></span>
+			               	            <h3 class="title"><a href="projects-single.html">Perdagangan Minyak Sawit</a></h3>
 			               	        </div>
 			               	        <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
 			               	    </div>
@@ -1026,7 +1040,7 @@
 											</div>
 											<div class="services-text">
 												<div class="services-title">				    		
-							    		    		<h4 class="title"> Best sustainability</h4>
+							    		    		<h4 class="title">Gratis Konsultasi</h4>
 							    		    	</div>    	    						    
 											</div>
 										</div>
@@ -1040,7 +1054,7 @@
 											</div>
 											<div class="services-text">
 												<div class="services-title">				    		
-							    		    		<h4 class="title">Health and safety</h4>
+							    		    		<h4 class="title">Berpengalaman</h4>
 							    		    	</div>    	    						    
 											</div>
 										</div>
@@ -1054,7 +1068,7 @@
 											</div>
 											<div class="services-text">
 												<div class="services-title">				    		
-							    		    		<h4 class="title">Modern methods</h4>
+							    		    		<h4 class="title">Profesional</h4>
 							    		    	</div>    	    						    
 											</div>
 										</div>
@@ -1068,7 +1082,7 @@
 											</div>
 											<div class="services-text">
 												<div class="services-title">				    		
-							    		    		<h4 class="title">Certified engineer</h4>
+							    		    		<h4 class="title">Aman dan Akurat</h4>
 							    		    	</div>    	    						    
 											</div>
 										</div>
@@ -1396,8 +1410,8 @@
 			                        <img src="<?php echo base_url() ?>assets/klien/images/contact/style1/icons/1.png" alt="images">
 			                    </div>
 			                    <div class="content-text">
-			                        <h4 class="title"><a href="#">USA office</a></h4>
-			                        <p class="services-txt">55 Gerad Lane,<br> NY 11201, USA</p>
+			                        <h4 class="title"><a href="#">Alamat Kantor</a></h4>
+			                        <p class="services-txt">Taman Anggun Sejahtera IV, Cluster Gardenia Blok D2-07,<br> Sidodai,Candi, Sidoarjo</p>
 			                    </div>
 			                </div>
 			                <div class="contact-box mb-20">
@@ -1405,10 +1419,9 @@
 			                        <img src="<?php echo base_url() ?>assets/klien/images/contact/style1/icons/2.png" alt="images">
 			                    </div>
 			                    <div class="content-text">
-			                        <h4 class="title"><a href="#">Email us</a></h4>
+			                        <h4 class="title"><a href="#">Email</a></h4>
 			                        <p class="services-txt">
-			                        	<a href="mailto:test@gamil.com">test@gamil.com</a><br>
-			                        	<a href="mailto:test2@gamil.com">test2@gamil.com</a>
+			                        	<a href="mailto:test@gamil.com">globalmanajementconsultant01@gmail.com</a><br>
 			                        </p>
 			                    </div>
 			                </div>
@@ -1417,10 +1430,10 @@
 			                        <img src="<?php echo base_url() ?>assets/klien/images/contact/style1/icons/3.png" alt="images">
 			                    </div>
 			                    <div class="content-text">
-			                        <h4 class="title"><a href="#">Call us</a></h4>
+			                        <h4 class="title"><a href="#">Kontak</a></h4>
 			                        <p class="services-txt">
-			                        	<a href="tel:(+088)589-8745">(+088) 589-8745</a><br>
-			                        	<a href="tel:(+088)222-9999">(+088) 222-9999</a>
+			                        	<a href="tel:(+088)589-8745">(+62) 813-3190-7979</a><br>
+			                        	<a href="tel:(+088)222-9999">(+62) 856-0757-5713</a>
 			                        </p>
 			                    </div>
 			                </div>
@@ -1538,14 +1551,10 @@
 								Work With Us !
 							</span>
 							<h2 class="title white-color pb-20">
-								Have any upcoming project
+								Sudah saatnya anda mengurus pajak dan keuangan dengan aman dan mudah bersama Kantor Konsultan Pajak dan Hukum Terdaftar Eko dan Rekan
 							</h2>
-							<p class="desc desc3 pb-35">
-								Leverage agile frameworks to provide a robust synopsis for high level overviews.<br> 
-								Iterative approaches to corporate strategy foster collaborative thinking
-							</p>
 							<div class="btn-part">
-								<a class="readon more contact" href="contact.html">Get Started</a>
+								<a class="readon more contact" href="contact.html">Whatsapp</a>
 							</div>
 						</div>
 					</div>
