@@ -413,6 +413,7 @@
 			           		<div class="content-part">
 			           		    <span class="sl-subtitle">
 			           		    	<img class="sl-icons" src="<?php echo base_url() ?>assets/klien/images/slider/style1/shapes/icons3.png" alt="Images">
+
 			           		   		Konsultasi Pajak dan Hukum
 			           			</span>
 			           		    <h1 class="sl-title">
