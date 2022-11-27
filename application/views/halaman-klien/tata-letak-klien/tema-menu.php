@@ -26,9 +26,9 @@
 										<li class="menu-item-has-children">
 											<a href="services.html">Services</a>
 											<ul class="sub-menu">
-												<li><a href="<?= site_url('Klien/Perpajakan') ?>">Jaya Perpajakan</a></li>
-												<li><a href="<?= site_url('Klien/Akuntansi') ?>">Jasa Akuntansi</a></li>
-												<li><a href="<?= site_url('Klien/Hukum') ?>">Jasa Hukum</a></li>
+												<li><a href="<?= site_url('Jasa/Perpajakan') ?>">Jasa Perpajakan</a></li>
+												<li><a href="<?= site_url('Jasa/Akuntansi') ?>">Jasa Akuntansi</a></li>
+												<li><a href="<?= site_url('Jasa/Hukum') ?>">Jasa Hukum</a></li>
 											</ul>
 										</li>
 										<li>
