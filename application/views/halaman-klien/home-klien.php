@@ -105,12 +105,12 @@
 								</div>
 								<div class="services-content">
 									<div class="services-titles">
-										<h4 class="title"><a href="general-construction.html">General construction</a></h4>
+										<h4 class="title"><a href="general-construction.html">Jasa Perpajakan</a></h4>
 									</div>
 									<p class="services-txt">
-										Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it
-										is
-										pain, but occasionally.
+										Konsultasi Pelaporan Pajak Bulanan, Konsultasi Pelaporan Pajak Tahunan, Konsultasi
+										Permasalahan Pajak,
+										Konsultasi Perencanaan Pajak, Laporan Keuangan Fiskal, Konsul.
 									</p>
 									<div class="services-btn btn-style2">
 										<a class="btn-text" href="general-construction.html">Know More<i
@@ -127,12 +127,11 @@
 								</div>
 								<div class="services-content">
 									<div class="services-titles">
-										<h4 class="title"><a href="property-maintenance.html">Property maintenance</a></h4>
+										<h4 class="title"><a href="property-maintenance.html">Jasa Akuntansi</a></h4>
 									</div>
 									<p class="services-txt">
-										Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it
-										is
-										pain, but occasionally.
+										Menyusun buku neraca, software akuntansi beserta
+										implementasinya.
 									</p>
 									<div class="services-btn btn-style2">
 										<a class="btn-text" href="property-maintenance.html">Know More<i
@@ -149,103 +148,14 @@
 								</div>
 								<div class="services-content">
 									<div class="services-titles">
-										<h4 class="title"><a href="project-managment.html">Project managment</a></h4>
+										<h4 class="title"><a href="project-managment.html">Jasa Hukum</a></h4>
 									</div>
 									<p class="services-txt">
-										Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it
-										is
-										pain, but occasionally.
+										Jasa Hukum/Lawyer/Pengacara Perceraian, Pidana Umum, Utang Piutang, Pertanahan, dan
+										Gugatan PMH.
 									</p>
 									<div class="services-btn btn-style2">
 										<a class="btn-text" href="project-managment.html">Know More<i
-												class="fi fi-rr-arrow-small-right"></i></a>
-									</div>
-								</div>
-							</div>
-							<div class="services-slider">
-								<div class="services-img">
-									<a href="virtual-design-build.html">
-										<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon4.png"
-											alt="Services">
-									</a>
-								</div>
-								<div class="services-content">
-									<div class="services-titles">
-										<h4 class="title"><a href="virtual-design-build.html">Virtual design & build</a></h4>
-									</div>
-									<p class="services-txt">
-										Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it
-										is
-										pain, but occasionally.
-									</p>
-									<div class="services-btn btn-style2">
-										<a class="btn-text" href="virtual-design-build.html">Know More<i
-												class="fi fi-rr-arrow-small-right"></i></a>
-									</div>
-								</div>
-							</div>
-							<div class="services-slider">
-								<div class="services-img">
-									<a href="preconstruction.html">
-										<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon5.png"
-											alt="Services">
-									</a>
-								</div>
-								<div class="services-content">
-									<div class="services-titles">
-										<h4 class="title"><a href="preconstruction.html">Preconstruction</a></h4>
-									</div>
-									<p class="services-txt">
-										Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it
-										is
-										pain, but occasionally.
-									</p>
-									<div class="services-btn btn-style2">
-										<a class="btn-text" href="preconstruction.html">Know More<i
-												class="fi fi-rr-arrow-small-right"></i></a>
-									</div>
-								</div>
-							</div>
-							<div class="services-slider">
-								<div class="services-img">
-									<a href="design-build.html">
-										<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon6.png"
-											alt="Services">
-									</a>
-								</div>
-								<div class="services-content">
-									<div class="services-titles">
-										<h4 class="title"><a href="design-build.html">Design build</a></h4>
-									</div>
-									<p class="services-txt">
-										Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it
-										is
-										pain, but occasionally.
-									</p>
-									<div class="services-btn btn-style2">
-										<a class="btn-text" href="design-build.html">Know More<i
-												class="fi fi-rr-arrow-small-right"></i></a>
-									</div>
-								</div>
-							</div>
-							<div class="services-slider">
-								<div class="services-img">
-									<a href="general-construction.html">
-										<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/service-icon1.png"
-											alt="Services">
-									</a>
-								</div>
-								<div class="services-content">
-									<div class="services-titles">
-										<h4 class="title"><a href="general-construction.html">General construction</a></h4>
-									</div>
-									<p class="services-txt">
-										Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it
-										is
-										pain, but occasionally.
-									</p>
-									<div class="services-btn btn-style2">
-										<a class="btn-text" href="general-construction.html">Know More<i
 												class="fi fi-rr-arrow-small-right"></i></a>
 									</div>
 								</div>
@@ -264,17 +174,18 @@
 						<div class="sec-title text-center">
 							<span class="sub-text yellow-color">
 								<img src="<?php base_url() ?>assets/klien/images/shape-1.png" alt="Images">
-								Work With Us !
+								BEKERJA DENGAN KAMI !
 							</span>
 							<h2 class="title white-color pb-20">
-								Have any upcoming project
+							Mulai Konsultasikan Pajak dan Bisnis Anda<br>
+							dan Berkembang Bersama Kami.
 							</h2>
 							<p class="desc desc3 pb-35">
-								Leverage agile frameworks to provide a robust synopsis for high level overviews.<br> 
-								Iterative approaches to corporate strategy foster collaborative thinking
+							Terpercaya dalam Kerahasiaan Data dan Kemudahan Pengusaha
+untuk Mengurus Legalitas.
 							</p>
 							<div class="btn-part">
-								<a class="readon more contact" href="contact.html">Get Started</a>
+								<a class="readon more contact" href="contact.html">Mulai Konsultasi</a>
 							</div>
 						</div>
 					</div>

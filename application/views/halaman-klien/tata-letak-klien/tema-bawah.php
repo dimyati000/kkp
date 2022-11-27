@@ -56,8 +56,8 @@
                             </ul>
 						</div>
 						<div class="col-lg-3">
-							<h3 class="footer-title">Newsletter</h3>
-							<p class="widget-desc">Tetur adipiscing elit, sed do eiusmod tempor in cididunt ut labore.</p>
+							<h3 class="footer-title">Slogan Kami</h3>
+							<p class="widget-desc">Terpercaya dalam Kerahasiaan Data dan Kemudahan Pengusaha untuk Mengurus Legalitas.</p>
 							<p>
                                 <input type="email" name="email" placeholder="Your Email Address" required="">
                                 <input type="submit" value="Subscribe Now">
