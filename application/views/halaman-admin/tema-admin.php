@@ -7,7 +7,7 @@
   <title>Dashboard | KKP</title>
   <!-- favicon -->
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url() ?>assets/img/logo-kkp.jpg">
+  <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url() ?>assets/img/logo-kkp-transparan.png">
   <?php include('tata-letak-admin/tema-css.php') ?>
 
 </head>
