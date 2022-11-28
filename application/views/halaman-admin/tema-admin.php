@@ -4,10 +4,10 @@
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
   <!-- <title>General Dashboard &mdash; KKP</title> -->
-  <title>Dashboard | KKP</title>
+  <title>Dashboard | Kantor Konsultan Pajak dan Hukum</title>
   <!-- favicon -->
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url() ?>assets/img/logo-kkp-transparan.png">
+  <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url() ?>assets/img/logo-kkp-removebg.png">
   <?php include('tata-letak-admin/tema-css.php') ?>
 
 </head>
