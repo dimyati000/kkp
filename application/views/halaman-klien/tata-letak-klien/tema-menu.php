@@ -62,22 +62,7 @@
 										</form>
 									</div>
 								</li>
-								<li class="btn-quote"><a class="quote-button" href="#">Let's Talk</a></li>
-								<li class="humburger">
-									<a id="nav-expander" class="nav-expander bar" href="#">
-										<div class="bar">
-											<span class="dot1"></span>
-											<span class="dot2"></span>
-											<span class="dot3"></span>
-											<span class="dot4"></span>
-											<span class="dot5"></span>
-											<span class="dot6"></span>
-											<span class="dot7"></span>
-											<span class="dot8"></span>
-											<span class="dot9"></span>
-										</div>
-									</a>
-								</li>
+								<li class="btn-quote"><a class="quote-button" href="#">Let's Talk<i class="fi fi-rr-arrow-small-right"></i></a></li>							
 							</ul>
 						</div>
 					</div>
