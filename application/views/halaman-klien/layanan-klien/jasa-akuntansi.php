@@ -4,7 +4,7 @@
 			    <div class="container">
 			        <div class="breadcrumbs-inner">
 			            <h1 class="page-title">
-			               	Jasa Akuntanasi
+			               	Jasa Akuntansi
 			            </h1>
 			            <span class="sub-text">Kami melakukan yang terbaik dalam melayani anda pada segala kasus.</span>
 			            <ul class="breadcrumbs-area">

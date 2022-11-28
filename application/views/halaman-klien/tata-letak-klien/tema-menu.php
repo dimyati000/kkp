@@ -32,7 +32,7 @@
 											</ul>
 										</li>
 										<li>
-											<a href="<?= site_url('Klien/Blog') ?>">Blog</a>
+											<a href="<?= site_url('Blog') ?>">Blog</a>
 										</li>
 										<li>
 											<a href="<?= site_url('Klien/Kontak') ?>">Contact</a>
@@ -98,7 +98,7 @@
 					</ul>
 				</li>
 				<li>
-					<a href="<?= site_url('Klien/blog') ?>">Blog</a>
+					<a href="<?= site_url('Blog') ?>">Blog</a>
 				</li>
 				<li>
 					<a href="<?= site_url('Klien/kontak') ?>">Contact</a>

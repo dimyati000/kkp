@@ -10,8 +10,8 @@ class Jasa extends CI_Controller{
     }
 
     public function akuntansi(){
-        $data['title'] = "Jasa Akuntanasi | Kantor Konsultan Pajak dan Hukum";
-        $data['konten'] = "layanan-klien/jasa-akuntanasi.php";    
+        $data['title'] = "Jasa Akuntansi | Kantor Konsultan Pajak dan Hukum";
+        $data['konten'] = "layanan-klien/jasa-akuntansi.php";    
 
         $this->load->view('halaman-klien/tema-klien.php', $data);
     }
