@@ -23,10 +23,10 @@
 								</h1>
 								<p class="sl-desc">
 									Terpercaya dalam kerahasiaan data dan kemudahan pengusaha<br>
-									untuk mengurus legalitas.
+									untuk mengatasi permasalahan dalam bidang sesuai kebutuhan klien.
 								</p>
 								<div class="slider-bottom">
-									<a class="readon more" href="contact.html">Mulai Sekarang</a>
+									<a class="readon more" href="<?php echo site_url('#Service') ?>">Mulai Sekarang</a>
 								</div>
 							</div>
 							<div class="animation-wrap">

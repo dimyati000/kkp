@@ -17,11 +17,11 @@
 									<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
 									Tentang Kami
 								</span>
-								<!-- <h2 class="title pb-20">
+								<h2 class="title pb-20">
 									Kantor Konsultan Pajak dan Hukum Terdaftar Eko dan Rekan
-								</h2> -->
+								</h2>
 								<p class="desc pb-37">
-									Kantor Konsultan Pajak dan Hukum Terdaftar Eko dan Rekan membantu anda untuk memahami,
+									membantu anda untuk memahami,
 									mengelola dan membantu anda dalam memberikan layanan konsultasi usaha anda. Sehingga anda
 									dapat lebih fokus dalam mengembangkan bisnis anda. Kantor Konsultan Pajak dan Hukum Terdaftar
 									Eko dan Rekan memiliki tim dan konsultan yang berpengalaman dibidangnya sehingga anda dapat
@@ -30,7 +30,7 @@
 								<div class="row y-middle">
 									<div class="col-lg-4 col-md-4 sm-mb-30">
 										<div class="about-img">
-											<img src="<?php echo base_url() ?>assets/klien/images/about/style1/Designer _Isometric.png"
+											<img src="<?php echo base_url() ?>assets/klien/images/about/style1/icon-about-kecil.png"
 												alt="About">
 										</div>
 									</div>
@@ -60,7 +60,7 @@
 								<div class="row mt-47 md-mt-25">
 									<div class="col-lg-6 col-md-4 sm-mb-30">
 										<div class="btn-part">
-											<a class="readon more know" href="about.html">Selengkapnya</a>
+											<a class="readon more know" href="<?php echo site_url('Klien/About') ?>">Selengkapnya</a>
 										</div>
 									</div>
 									<!-- <div class="col-lg-6 col-md-8">
@@ -78,15 +78,15 @@
 			<!-- About Start -->
 			<div class="rs-about about-style1 bg5 pt-120 pb-120 md-pt-80 md-pb-80">
 				<!-- Services Section Start -->
-				<div class="rs-services services-style1 pt-120 md-pt-70">
+				<div id="Service" class="rs-services services-style1 pt-120 md-pt-70">
 					<div class="container">
 						<div class="sec-title text-center mb-50">
 							<span class="sub-text sub-text2">
 								Services
 							</span>
 							<h2 class="title">
-								Develop comprehensive solutions<br>
-								for each project.
+								Memberikan solusi untuk permasalahan terkait<br>
+								perpajakan, akuntansi dan hukum yang anda butuhkan.
 							</h2>
 						</div>
 						<div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30"
@@ -109,11 +109,10 @@
 									</div>
 									<p class="services-txt">
 										Konsultasi Pelaporan Pajak Bulanan, Konsultasi Pelaporan Pajak Tahunan, Konsultasi
-										Permasalahan Pajak,
-										Konsultasi Perencanaan Pajak, Laporan Keuangan Fiskal, Konsul.
+										Permasalahan Pajak, dll.
 									</p>
 									<div class="services-btn btn-style2">
-										<a class="btn-text" href="general-construction.html">Know More<i
+										<a class="btn-text" href="<?php echo site_url('Jasa/perpajakan') ?>">Selengkapnya<i
 												class="fi fi-rr-arrow-small-right"></i></a>
 									</div>
 								</div>
@@ -131,10 +130,10 @@
 									</div>
 									<p class="services-txt">
 										Menyusun buku neraca, software akuntansi beserta
-										implementasinya.
+										implementasinya yang ditangani oleh konsultan dan divisi terkait.
 									</p>
 									<div class="services-btn btn-style2">
-										<a class="btn-text" href="property-maintenance.html">Know More<i
+										<a class="btn-text" href="<?php echo site_url('Jasa/akuntansi') ?>">Selengkapnya<i
 												class="fi fi-rr-arrow-small-right"></i></a>
 									</div>
 								</div>
@@ -155,7 +154,7 @@
 										Gugatan PMH.
 									</p>
 									<div class="services-btn btn-style2">
-										<a class="btn-text" href="project-managment.html">Know More<i
+										<a class="btn-text" href="<?php echo site_url('Jasa/hukum') ?>">Selengkapnya<i
 												class="fi fi-rr-arrow-small-right"></i></a>
 									</div>
 								</div>
@@ -185,7 +184,7 @@
 untuk Mengurus Legalitas.
 							</p>
 							<div class="btn-part">
-								<a class="readon more contact" href="contact.html">Mulai Konsultasi</a>
+								<a class="readon more contact" href="<?php echo site_url('#Service') ?>">Mulai Konsultasi</a>
 							</div>
 						</div>
 					</div>
