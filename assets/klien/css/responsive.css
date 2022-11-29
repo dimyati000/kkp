@@ -120,12 +120,16 @@
     .rs-choose.choose-style4 .rs-choose-content {
         padding: 120px 30px 120px 170px;
     }
+    .rs-process.process-style1 .rs-arrow-animate .arrow-style.three {
+        left: 69%;
+        top: 48%;
+    }
     .rs-process.process-style1 .rs-arrow-animate .arrow-style.two {
-        left: 59%;
+        left: 47%;
         top: 48%;
     }
     .rs-process.process-style1 .rs-arrow-animate .arrow-style.one {
-        left: 32%;
+        left: 24%;
         top: 48%;
     }
     .sec-title3 .title {

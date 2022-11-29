@@ -1,5 +1,5 @@
 <!-- Contact Section Start -->
-<div class="rs-contact contact-style1 bg3">
+<div class="rs-contact contact-style1 bg5">
 	<div class="row">
 		<div class="col-lg-4 offset-2 con-left-6">
 			<div class="contact-section">
@@ -7,10 +7,10 @@
 					<div class="sec-title mb-45">
 						<span class="sub-text">
 							<img src="<?= base_url() ?>assets/klien/images/shape-1.png" alt="Images">
-							Lets talk
+							Form Konsultasi
 						</span>
-						<h2 class="title">
-							Have an upcoming project?
+						<h2 class="sub-text">
+						Isi formulir di bawah ini dan kami akan menghubungi Anda.
 						</h2>
 					</div>
 					<div id="form-messages"></div>
@@ -18,29 +18,29 @@
 						<fieldset>
 							<div class="row">
 								<div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-									<input class="from-control" type="text" id="name" name="name" placeholder="Name"
+									<input class="from-control" type="text" id="name" name="name" placeholder="Nama"
 										required="">
 								</div>
 								<div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-									<input class="from-control" type="text" id="email" name="email" placeholder="E-Mail"
+									<input class="from-control" type="text" id="email" name="email" placeholder="Email"
 										required="">
 								</div>
 								<div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-									<input class="from-control" type="text" id="phone" name="phone"
+									<input class="from-control" type="text" id="phone" name="Telepon"
 										placeholder="Phone Number" required="">
 								</div>
 								<div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-									<input class="from-control" type="text" id="website" name="website"
-										placeholder="Your Website" required="">
+									<input class="from-control" type="text" id="layanan" name="ayanan"
+										placeholder="Jenis Layanan" required="">
 								</div>
 								<div class="col-lg-12 mb-30">
 									<textarea class="from-control" id="message" name="message"
-										placeholder="Your Message Here" required=""></textarea>
+										placeholder="Pesan" required=""></textarea>
 								</div>
 							</div>
 							<div class="btn-part">
 								<div class="form-group mb-0">
-									<input class="readon more submit" type="submit" value="Submit Now">
+									<input class="readon more submit" type="submit" value="Kirim">
 								</div>
 							</div>
 						</fieldset>
@@ -55,8 +55,8 @@
 						<img src="<?= base_url() ?>assets/klien/images/contact/style1/icons/1.png" alt="images">
 					</div>
 					<div class="content-text">
-						<h4 class="title"><a href="#">USA office</a></h4>
-						<p class="services-txt">55 Gerad Lane,<br> NY 11201, USA</p>
+						<h4 class="title"><a href="#">Alamat</a></h4>
+						<p class="services-txt">Taman Anggun Sejahtera 4, Cluster Gardenia Blok D2-07,<br> Sidodadi Candi, Sidoarjo</p>
 					</div>
 				</div>
 				<div class="contact-box mb-20">
@@ -64,10 +64,9 @@
 						<img src="<?= base_url() ?>assets/klien/images/contact/style1/icons/2.png" alt="images">
 					</div>
 					<div class="content-text">
-						<h4 class="title"><a href="#">Email us</a></h4>
+						<h4 class="title"><a href="#">Email</a></h4>
 						<p class="services-txt">
-							<a href="mailto:test@gamil.com">test@gamil.com</a><br>
-							<a href="mailto:test2@gamil.com">test2@gamil.com</a>
+							<a href="mailto:test@gamil.com">kkpekobudisetiawan@gmail.com</a><br>
 						</p>
 					</div>
 				</div>
@@ -76,10 +75,10 @@
 						<img src="<?= base_url() ?>assets/klien/images/contact/style1/icons/3.png" alt="images">
 					</div>
 					<div class="content-text">
-						<h4 class="title"><a href="#">Call us</a></h4>
+						<h4 class="title"><a href="#">Kontak</a></h4>
 						<p class="services-txt">
-							<a href="tel:(+088)589-8745">(+088) 589-8745</a><br>
-							<a href="tel:(+088)222-9999">(+088) 222-9999</a>
+							<a href="tel:(+088)589-8745">(+62) 813-3190-7979</a><br>
+							<a href="tel:(+088)222-9999">(+62) 856-0757-5713 </a>
 						</p>
 					</div>
 				</div>

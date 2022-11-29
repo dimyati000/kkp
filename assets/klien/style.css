@@ -307,7 +307,7 @@ ul {
   background-size: cover;
 }
 .bg16 {
-  background: url(images/bg/process-bg.jpg);
+  background: url(images/bg/abot-single-bg.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5982,7 +5982,7 @@ body .search-modal .close:hover {
   max-width: unset;
 }
 .rs-process.process-style1 .services-item .services-icon.blue-icon-bg {
-  background: #0052da;
+  background: #FFB703;
 }
 .rs-process.process-style1 .services-item .content-text .title {
   font-size: 22px;

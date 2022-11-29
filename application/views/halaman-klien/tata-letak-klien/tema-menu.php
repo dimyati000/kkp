@@ -62,7 +62,7 @@
 										</form>
 									</div>
 								</li>
-								<li class="btn-quote"><a class="quote-button" href="#">Let's Talk<i class="fi fi-rr-arrow-small-right"></i></a></li>							
+								<li class="btn-quote"><a class="quote-button" target="_blank" href="https://api.whatsapp.com/send?phone=6281331907979&text=Halo%20admin%20Kantor%20Konsultan%20Pajak%20dan%20Hukum%20terdaftar%20Eko%20dan%20rekan,%20saya%20mau%20tanya%20.....">Let's Talk<i class="fi fi-rr-arrow-small-right"></i></a></li>							
 							</ul>
 						</div>
 					</div>
