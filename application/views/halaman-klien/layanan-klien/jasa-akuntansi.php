@@ -6,7 +6,7 @@
 			            <h1 class="page-title">
 			               	Jasa Akuntansi
 			            </h1>
-			            <span class="sub-text">Kami melakukan yang terbaik dalam melayani anda pada segala kasus.</span>
+			            <span class="sub-text">Kami melakukan yang terbaik dalam melayani anda pada segala masalah akuntansi.</span>
 			            <ul class="breadcrumbs-area">
                            <li title="Go to konstruk">
                                <a class="active" href="<?= site_url('') ?>">Home</a>
@@ -25,108 +25,23 @@
 	        			<div class="col-lg-4 col-md-6 md-mb-50">
 	        				<div class="pricing-table-wrap">
 	        					<div class="pricing-table-header">
-	        					    <h3 class="pricing-table-title">Basic</h3>
+	        					    <h3 class="pricing-table-title">Jasa Akuntansi</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="assets/images/pricing/style1/icons1.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/AK.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
-				                    <span class="pricing-table-currency">$</span>
-				                    <span class="pricing-table-price-text">3500</span>
-				                    <span class="pricing-table-period">Month</span>
+				                    <span class="pricing-table-currency">Rp</span>
+				                    <span class="pricing-table-price-text">50Jt</span>
+				                    <span class="pricing-table-period">Tahun</span>
 				                </div>
 				                <ul class="pricing-table-features-list">
 				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Target estimate</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Cost plus fixed fee</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-close"></i>
-				                		<span class="feature-text">Professional Design</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-close"></i>
-				                		<span class="feature-text">10 Year maintenance</span>
+				                		<span class="feature-text">Konsultan akan membantu perusahaan untuk menyusun bu neraca. Dengan adanya layanan ini, perusahaan akan memiliki kesempatan untuk lebih fokus lagi pada bisnisnya karena urusan manajemen keuangan perusahaan akan ditangani oleh konsultan dan divisi terkait dengan keuangan perusahaan. Perusahaan juga bisa lebih fokus menjalin komunikasi dengan para investor, bank, dan mitra bisnis. Jasa akuntan yang ditawarkan adalah software akuntansi beserta implementasinya.</span>
 				                	</li>
 				                </ul>
 				                <div class="btn-part mt-45 md-mt-30 text-center">
-				                    <a class="readon more pricing" href="contact.html"><span>Book Now</span></a>
-				                </div>
-	        				</div>
-	        			</div>
-	        			<div class="col-lg-4 col-md-6 md-mb-50">
-	        				<div class="pricing-table-wrap">
-	        					<div class="pricing-table-header">
-	        					    <h3 class="pricing-table-title">Standard</h3>
-	        					</div>
-	        					<div class="pricing-icon">
-	        						<img src="assets/images/pricing/style1/icons2.png" alt="Images">
-	        					</div>
-	        					<div class="pricing-table-price-tag">
-				                    <span class="pricing-table-currency">$</span>
-				                    <span class="pricing-table-price-text">4500</span>
-				                    <span class="pricing-table-period">Month</span>
-				                </div>
-				                <ul class="pricing-table-features-list">
-				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Target estimate</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Cost plus fixed fee</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Professional Design</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-close"></i>
-				                		<span class="feature-text">10 Year maintenance</span>
-				                	</li>
-				                </ul>
-				                <div class="btn-part mt-45 md-mt-30 text-center">
-				                    <a class="readon more pricing" href="contact.html"><span>Book Now</span></a>
-				                </div>
-	        				</div>
-	        			</div>
-	        			<div class="col-lg-4 col-md-6">
-	        				<div class="pricing-table-wrap">
-	        					<div class="pricing-table-header">
-	        					    <h3 class="pricing-table-title">Premium</h3>
-	        					</div>
-	        					<div class="pricing-icon">
-	        						<img src="assets/images/pricing/style1/icons3.png" alt="Images">
-	        					</div>
-	        					<div class="pricing-table-price-tag">
-				                    <span class="pricing-table-currency">$</span>
-				                    <span class="pricing-table-price-text">6500</span>
-				                    <span class="pricing-table-period">Month</span>
-				                </div>
-				                <ul class="pricing-table-features-list">
-				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Target estimate</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Cost plus fixed fee</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Professional Design</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-close"></i>
-				                		<span class="feature-text">10 Year maintenance</span>
-				                	</li>
-				                </ul>
-				                <div class="btn-part mt-45 md-mt-30 text-center">
-				                    <a class="readon more pricing" href="contact.html"><span>Book Now</span></a>
+				                    <a class="readon more pricing" href="<?= site_url('Jasa/Form_Konsultasi') ?>"><span>Konsultasi Sekarang</span></a>
 				                </div>
 	        				</div>
 	        			</div>

@@ -6,7 +6,7 @@
 			            <h1 class="page-title">
 			               	Jasa Hukum
 			            </h1>
-			            <span class="sub-text">Kami melakukan yang terbaik dalam melayani menjadi pengacara anda pada segala kasus.</span>
+			            <span class="sub-text">Kami melakukan yang terbaik dalam melayani menjadi pengacara anda pada segala masalah hukum.</span>
 			            <ul class="breadcrumbs-area">
                            <li title="Go to konstruk">
                                <a class="active" href="<?= site_url('') ?>">Home</a>
@@ -25,108 +25,119 @@
 	        			<div class="col-lg-4 col-md-6 md-mb-50">
 	        				<div class="pricing-table-wrap">
 	        					<div class="pricing-table-header">
-	        					    <h3 class="pricing-table-title">Basic</h3>
+	        					    <h3 class="pricing-table-title">Pengacara Perceraian</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="assets/images/pricing/style1/icons1.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/HK.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
-				                    <span class="pricing-table-currency">$</span>
-				                    <span class="pricing-table-price-text">3500</span>
-				                    <span class="pricing-table-period">Month</span>
+				                    <span class="pricing-table-currency">Rp</span>
+				                    <span class="pricing-table-price-text">6Jt</span>
 				                </div>
 				                <ul class="pricing-table-features-list">
 				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Target estimate</span>
+				                		<span class="feature-text">Mengajukan gugatan cerai ke Pengadilan Agama bagi yang beragama Islam serta memiliki buku nikah yang diterbitkan oleh KUA.</span>
 				                	</li>
 				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Cost plus fixed fee</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-close"></i>
-				                		<span class="feature-text">Professional Design</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-close"></i>
-				                		<span class="feature-text">10 Year maintenance</span>
+				                		<span class="feature-text">Mengajukan gugatan cerai ke Pengadilan Negeri bagi yang beragama Kristen, Protestan, Katolik, Hindu dan Konghucu serta memiliki akta perkawinan yang dikeluarkan Disdukcapil.</span>
 				                	</li>
 				                </ul>
 				                <div class="btn-part mt-45 md-mt-30 text-center">
-				                    <a class="readon more pricing" href="<?= site_url('Jasa/Konsultasi') ?>"><span>Konsultasi Sekarang</span></a>
+				                    <a class="readon more pricing" href="<?= site_url('Jasa/Form_Konsultasi') ?>"><span>Konsultasi Sekarang</span></a>
 				                </div>
 	        				</div>
 	        			</div>
 	        			<div class="col-lg-4 col-md-6 md-mb-50">
 	        				<div class="pricing-table-wrap">
 	        					<div class="pricing-table-header">
-	        					    <h3 class="pricing-table-title">Standard</h3>
+	        					    <h3 class="pricing-table-title">Pengacara Pidana Umum dan Khusus</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="assets/images/pricing/style1/icons2.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/HK.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
-				                    <span class="pricing-table-currency">$</span>
-				                    <span class="pricing-table-price-text">4500</span>
-				                    <span class="pricing-table-period">Month</span>
+				                    <span class="pricing-table-currency">Rp</span>
+				                    <span class="pricing-table-price-text">4Jt</span>
 				                </div>
 				                <ul class="pricing-table-features-list">
 				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Target estimate</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Cost plus fixed fee</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Professional Design</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-close"></i>
-				                		<span class="feature-text">10 Year maintenance</span>
+				                		<span class="feature-text">Peran advokat atau pengacara melakukan pendampingan hukum kepada klien baik dalam posisi sebagai pelapor/korban maupun sebagai terlapor/tersangka/terdakwa dalam pidana umum maupun pidana khusus.</span>
 				                	</li>
 				                </ul>
 				                <div class="btn-part mt-45 md-mt-30 text-center">
-				                    <a class="readon more pricing" href="<?= site_url('Jasa/Konsultasi') ?>"><span>Konsultasi Sekarang</span></a>
+				                    <a class="readon more pricing" href="<?= site_url('Jasa/Form_Konsultasi') ?>"><span>Konsultasi Sekarang</span></a>
 				                </div>
 	        				</div>
 	        			</div>
 	        			<div class="col-lg-4 col-md-6">
 	        				<div class="pricing-table-wrap">
 	        					<div class="pricing-table-header">
-	        					    <h3 class="pricing-table-title">Premium</h3>
+	        					    <h3 class="pricing-table-title">Pengacara Hutang Piutang</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="assets/images/pricing/style1/icons3.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/HK.png">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
-				                    <span class="pricing-table-currency">$</span>
-				                    <span class="pricing-table-price-text">6500</span>
-				                    <span class="pricing-table-period">Month</span>
+				                    <span class="pricing-table-currency">Rp</span>
+				                    <span class="pricing-table-price-text">3Jt</span>
 				                </div>
 				                <ul class="pricing-table-features-list">
 				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Target estimate</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Cost plus fixed fee</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-check"></i>
-				                		<span class="feature-text">Professional Design</span>
-				                	</li>
-				                	<li>
-				                		<i class="fa fa-close"></i>
-				                		<span class="feature-text">10 Year maintenance</span>
+				                		<span class="feature-text">Dalam proses penyelesaian perkara hutang piutang melalui jalur hukum ini maka dibutuhkan tenaga hukum yang profesional. Salah satunya adalah jasa pengacara hutang piutang yang akan membantu penyelesaian masalah agar berjalan lancar. Selain itu pengacara ini juga diharapkan dapat memberi keuntungan optimal bagi pihak penggugat.</span>
 				                	</li>
 				                </ul>
 				                <div class="btn-part mt-45 md-mt-30 text-center">
-				                    <a class="readon more pricing" href="<?= site_url('Jasa/Konsultasi') ?>"><span>Konsultasi Sekarang</span></a>
+				                    <a class="readon more pricing" href="<?= site_url('Jasa/Form_Konsultasi') ?>"><span>Konsultasi Sekarang</span></a>
+				                </div>
+	        				</div>
+	        			</div>
+						<div class="col-lg-4 col-md-6 md-mb-50">
+	        				<div class="pricing-table-wrap">
+	        					<div class="pricing-table-header">
+	        					    <h3 class="pricing-table-title">Pengacara Pertanahan</h3>
+	        					</div>
+	        					<div class="pricing-icon">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/HK.png" alt="Images">
+	        					</div>
+	        					<div class="pricing-table-price-tag">
+				                    <span class="pricing-table-currency">Rp</span>
+				                    <span class="pricing-table-price-text">5Jt</span>
+				                </div>
+				                <ul class="pricing-table-features-list">
+				                	<li>
+				                		<span class="feature-text">Menyelesaikan masalah sengketa tanah di pengadilan tidaklah mudah, apalagi jika tanah yang sedang disengketakan tidak memiliki sertifikat. Disaat sulit seperti ini anda bisa memilih menggunakan jasa pengacara atau advokat untuk membantu anda mencari jalan keluar dari permasalahan tersebut.</span>
+				                	</li>
+				                </ul>
+				                <div class="btn-part mt-45 md-mt-30 text-center">
+				                    <a class="readon more pricing" href="<?= site_url('Jasa/Form_Konsultasi') ?>"><span>Konsultasi Sekarang</span></a>
+				                </div>
+	        				</div>
+	        			</div>
+						<div class="col-lg-4 col-md-6 md-mb-50">
+	        				<div class="pricing-table-wrap">
+	        					<div class="pricing-table-header">
+	        					    <h3 class="pricing-table-title">Pengacara Gugatan PMH</h3>
+	        					</div>
+	        					<div class="pricing-icon">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/HK.png" alt="Images">
+	        					</div>
+	        					<div class="pricing-table-price-tag">
+				                    <span class="pricing-table-currency">Rp</span>
+				                    <span class="pricing-table-price-text">7Jt</span>
+				                </div>
+				                <ul class="pricing-table-features-list">
+				                	<li>
+				                		<span class="feature-text">Kasus-kasus PMH seperti hutang piutang, sengketa kepemilikan tanah atau properti dan pelanggaran perjanjian/kontrak.</span>
+				                	</li>
+									<li>
+				                		<span class="feature-text">Mewakili dan mendampingi klien sebagai penggugat dalam mengajukan gugatan-gugatan perbuatan melawan hukum (PMH) ke Pengadilan Negeri.</span>
+				                	</li>
+									<li>
+				                		<span class="feature-text">Mewakili dan mendampingi klien sebagai tergugat dalam perbuatan melawan hukum (PMH) oleh Pengadilan Negeri.</span>
+				                	</li>
+				                </ul>
+				                <div class="btn-part mt-45 md-mt-30 text-center">
+				                    <a class="readon more pricing" href="<?= site_url('Jasa/Form_Konsultasi') ?>"><span>Konsultasi Sekarang</span></a>
 				                </div>
 	        				</div>
 	        			</div>

@@ -28,10 +28,10 @@
 			</div>
 			<div class="col-lg-6 pl-50 md-pl-15">
 				<div class="sec-title">
-					<!-- <span class="sub-text">
+					<span class="sub-text">
 						<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
 						KPP Eko Budi Setiawan
-					</span> -->
+					</span>
 					<h2 class="title pb-20">
 									Kantor Konsultan Pajak dan Hukum Terdaftar Eko dan Rekan
 								</h2>
@@ -135,6 +135,7 @@
 						<span class="skill-bar-percent">95%</span>
 					</div>
 				</div>
+				
 				<!-- Skillbar Section End -->
 				<!-- </div>
 						<div class="col-lg-6 video-img">
@@ -150,6 +151,75 @@
 </div>
 </div>
 <!-- Skillbar Choose End -->
+<!-- Process Section Start -->
+<div class="rs-process process-style1 bg16 pt-120 pb-115 md-pt-80 md-pb-75">
+				<div class="container">
+					<div class="sec-title text-center mb-45">
+						<span class="sub-text sub-text5 white-color">How We Work</span>
+						<h2 class="title white-color">
+							Our works process for you
+						</h2>
+					</div>
+					<div class="row">
+						<div class="col-lg-3 col-md-6 md-mb-30">
+							<div class="services-item">
+								<div class="services-icon">
+									<img src="<?php echo base_url() ?>assets/klien/images/process/style1/1.png" alt="Images">
+								</div>
+								<div class="content-text">
+                                    <h4 class="title">Konsultasi</h4>
+                                    <p class="services-txt">Pemeriksaan mengenai bidang usaha dan kekayaan intelektual bisnis</p>
+                                </div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6 sm-mb-30">
+							<div class="services-item">
+								<div class="services-icon blue-icon-bg">
+									<img src="<?php echo base_url() ?>assets/klien/images/process/style1/1.png" alt="Images">
+								</div>
+								<div class="content-text">
+                                    <h4 class="title">Konfirmasi Layanan</h4>
+                                    <p class="services-txt">Layanan untuk mengatasi permasalahan dalam bidang sesuai kebutuhan Anda</p>
+                                </div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="services-item">
+								<div class="services-icon">
+									<img src="<?php echo base_url() ?>assets/klien/images/process/style1/1.png" alt="Images">
+								</div>
+								<div class="content-text">
+                                    <h4 class="title">Pembayaran</h4>
+                                    <p class="services-txt">Lakukan pembayaran dari harga layanan yang sudah dipilih</p>
+                                </div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6 sm-mb-30">
+							<div class="services-item">
+								<div class="services-icon blue-icon-bg">
+									<img src="<?php echo base_url() ?>assets/klien/images/process/style1/1.png" alt="Images">
+								</div>
+								<div class="content-text">
+                                    <h4 class="title">Menikmati Layanan</h4>
+                                    <p class="services-txt">Nikmati proses pelayanan.</p>
+                                </div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="rs-arrow-animate">
+					<div class="arrow-style one">
+						<img src="<?php echo base_url() ?>assets/klien/images/process/style1/arrow-icon.png" alt="Images">
+					</div>
+					<div class="arrow-style two">
+						<img src="<?php echo base_url() ?>assets/klien/images/process/style1/arrow-icon.png" alt="Images">
+					</div>
+					<div class="arrow-style three">
+						<img src="<?php echo base_url() ?>assets/klien/images/process/style1/arrow-icon.png" alt="Images">
+					</div>
+				</div>
+			</div>
+			<!-- Process Section End -->
 
 <!-- Contact Section Start -->
 <div class="rs-contact contact-style1 bg5">
@@ -260,7 +330,7 @@
 					untuk Mengurus Legalitas.
 				</p>
 				<div class="btn-part">
-					<a class="readon more contact" href="contact.html">Mulai Konsultasi</a>
+					<a class="readon more contact" target="_blank" href="https://api.whatsapp.com/send?phone=6281331907979&text=Halo%20admin%20Kantor%20Konsultan%20Pajak%20dan%20Hukum%20terdaftar%20Eko%20dan%20rekan,%20saya%20mau%20tanya%20.....">Mulai Konsultasi</a>
 				</div>
 			</div>
 		</div>

@@ -28,7 +28,7 @@
 	        					    <h3 class="pricing-table-title">Konsultasi Pelaporan Pajak Bulanan</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/AK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
 				                    <span class="pricing-table-currency">Rp</span>
@@ -51,7 +51,7 @@
 	        					    <h3 class="pricing-table-title">Konsultasi Pelaporan Pajak Tahunan</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/AK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/pj.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
 				                    <span class="pricing-table-currency">Rp</span>
@@ -75,7 +75,7 @@
 	        					    <h3 class="pricing-table-title">Konsultasi Permasalahan Pajak</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/AK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
 				                    <span class="pricing-table-currency">Rp</span>
@@ -100,7 +100,7 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Konsultasi Perencanaan Pajak</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/AK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
 				                    <span class="pricing-table-currency">Rp</span>
@@ -125,7 +125,7 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Laporan Keuangan Fiskal</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/AK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
 				                    <span class="pricing-table-currency">Rp</span>
@@ -148,7 +148,7 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Konsultasi Laporan Komersial</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/AK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
 				                    <span class="pricing-table-currency">Rp</span>
@@ -171,7 +171,7 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Pendampingan SP2DK</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/AK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
 				                    <span class="pricing-table-currency">Rp</span>
@@ -203,7 +203,7 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Pendampingan Pemeriksaan Pajak</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/AK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
 				                    <span class="pricing-table-currency">Rp</span>
@@ -226,7 +226,7 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Pendampingan Keberatan Pajak</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/AK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
 				                    <span class="pricing-table-currency">Rp</span>
@@ -264,7 +264,7 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Pengacara Banding Pajak</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/AK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
 				                    <span class="pricing-table-currency">Rp</span>
@@ -287,7 +287,7 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Pengacara Peninjauan Kembali Pajak</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/AK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
 				                    <span class="pricing-table-currency">Rp</span>

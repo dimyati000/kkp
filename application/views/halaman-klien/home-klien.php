@@ -184,7 +184,7 @@
 untuk Mengurus Legalitas.
 							</p>
 							<div class="btn-part">
-								<a class="readon more contact" href="<?php echo site_url('#Service') ?>">Mulai Konsultasi</a>
+								<a class="readon more contact" target="_blank" href="https://api.whatsapp.com/send?phone=6281331907979&text=Halo%20admin%20Kantor%20Konsultan%20Pajak%20dan%20Hukum%20terdaftar%20Eko%20dan%20rekan,%20saya%20mau%20tanya%20.....">Mulai Konsultasi</a>
 							</div>
 						</div>
 					</div>
