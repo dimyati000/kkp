@@ -28,16 +28,15 @@
 			</div>
 			<div class="col-lg-6 pl-50 md-pl-15">
 				<div class="sec-title">
-					<span class="sub-text">
+					<!-- <span class="sub-text">
 						<img src="<?php echo base_url() ?>assets/klien/images/shape-1.png" alt="Images">
-						Tentang Kami
-					</span>
-					<!-- <h2 class="title pb-20">
+						KPP Eko Budi Setiawan
+					</span> -->
+					<h2 class="title pb-20">
 									Kantor Konsultan Pajak dan Hukum Terdaftar Eko dan Rekan
-								</h2> -->
+								</h2>
 					<p class="desc pb-37">
-						Kantor Konsultan Pajak dan Hukum Terdaftar Eko dan Rekan membantu anda untuk memahami,
-						mengelola dan membantu anda dalam memberikan layanan konsultasi usaha anda. Sehingga anda
+						membantu anda untuk memahami, mengelola dan membantu anda dalam memberikan layanan konsultasi usaha anda. Sehingga anda
 						dapat lebih fokus dalam mengembangkan bisnis anda. Kantor Konsultan Pajak dan Hukum Terdaftar
 						Eko dan Rekan memiliki tim dan konsultan yang berpengalaman dibidangnya sehingga anda dapat
 						mengurangi resiko usaha dikemudian hari.
@@ -74,9 +73,9 @@
 					</div>
 					<div class="row mt-47 md-mt-25">
 						<div class="col-lg-6 col-md-4 sm-mb-30">
-							<div class="btn-part">
+							<!-- <div class="btn-part">
 								<a class="readon more know" href="about.html">Selengkapnya</a>
-							</div>
+							</div> -->
 						</div>
 						<!-- <div class="col-lg-6 col-md-8">
 										<div class="signeture-img">
@@ -100,8 +99,7 @@
 						Kenapa Memilih Jasa Konsultan Pajak Eko dan Rekan?
 					</h2>
 					<p class="desc desc8">
-						Podcasting operational change management inside of workflows to<br>
-						establish a framework. Taking seamless key performance.
+					Kantor Konsultan Pajak dan Hukum terdaftar Eko dan Rekan memiliki tenaga profesional yang berpengalaman lebih dari 10 tahun di bidang perpajakan, akuntansi dan hukum.<br>
 					</p>
 				</div>
 				<!-- Skillbar Section Start -->
@@ -129,6 +127,12 @@
 					<div class="skillbar" data-percent="90">
 						<p class="skillbar-bar"></p>
 						<span class="skill-bar-percent">90%</span>
+					</div>
+					<!-- Start Skill Bar -->
+					<span class="skillbar-title">Cepat & Fleksibel</span>
+					<div class="skillbar" data-percent="95">
+						<p class="skillbar-bar"></p>
+						<span class="skill-bar-percent">95%</span>
 					</div>
 				</div>
 				<!-- Skillbar Section End -->

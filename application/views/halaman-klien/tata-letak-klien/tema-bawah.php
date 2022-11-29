@@ -8,7 +8,7 @@
 								<a href="index.html"><img src="<?php echo base_url() ?>assets/img/logo-kkp-removebg.png" alt=""></a>
 							</div>
 							<div class="textwidget">
-								<p class="pb-20">Terpercaya dalam kerahasiaan data dan kemudahan pengusaha untuk mengurus legalitas.</p>
+								<p class="pb-20">Terpercaya dalam kerahasiaan data dan kemudahan pengusaha untuk mengatasi permasalahan dalam bidang sesuai kebutuhan klien.</p>
 								<p class="pb-25"><strong>Jam Pelayanan</strong> : Senin – Sabtu: 8am to 5pm</p>
 							</div>
 							<ul class="footer-social md-mb-30">  
@@ -24,7 +24,7 @@
                                 <li>
                                     <i class="fi fi-rr-map-marker-home"></i>
                                     <div class="desc">
-                                    	Taman Anggun Sejahtera IV, Cluster Gardeni Blok D2-07,<br>
+                                    	Taman Anggun Sejahtera IV, Cluster Gardenia Blok D2-07,<br>
                                     	Sidodadi Candi<br>
                                         Sidoarjo
 									</div>
@@ -56,8 +56,8 @@
                             </ul>
 						</div>
 						<div class="col-lg-3">
-							<h3 class="footer-title">Slogan Kami</h3>
-							<p class="widget-desc">Terpercaya dalam Kerahasiaan Data dan Kemudahan Pengusaha untuk Mengurus Legalitas.</p>
+							<h3 class="footer-title">Newsletter</h3>
+							<!-- <p class="widget-desc">Terpercaya dalam Kerahasiaan Data dan Kemudahan Pengusaha untuk mengatasi permasalahan dalam bidang sesuai kebutuhan klien.</p> -->
 							<p>
                                 <input type="email" name="email" placeholder="Your Email Address" required="">
                                 <input type="submit" value="Subscribe Now">
