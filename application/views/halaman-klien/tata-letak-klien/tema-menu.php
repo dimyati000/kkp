@@ -35,7 +35,7 @@
 											<a href="<?= site_url('Blog') ?>">Blog</a>
 										</li>
 										<li>
-											<a href="<?= site_url('Klien/Kontak') ?>">Contact</a>
+											<a href="<?= site_url('Contact') ?>">Contact</a>
 										</li>
 									</ul> <!-- //.nav-menu -->
 								</nav>

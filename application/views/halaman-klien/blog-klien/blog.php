@@ -31,7 +31,7 @@
 			        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="false" data-md-device-dots="false">
 			            <div class="blog-item">
 			                <div class="image-wrap">
-			                    <a href="blog-single.html"><img src="assets/images/blog/style1/1.jpg" alt=""></a>
+			                    <a href="blog-single.html"><img src="<?php echo base_url() ?>assets/images/blog/style1/1.jpg" alt=""></a>
 			                </div>
 			                <div class="blog-content">
 			                	<ul class="blog-meta">
@@ -52,7 +52,7 @@
 			            </div>
 			            <div class="blog-item">
 			                <div class="image-wrap">
-			                    <a href="blog-single.html"><img src="assets/images/blog/style1/2.jpg" alt=""></a>
+			                    <a href="blog-single.html"><img src="<?php echo base_url() ?>assets/images/blog/style1/2.jpg" alt=""></a>
 			                </div>
 			                <div class="blog-content">
 			                	<ul class="blog-meta">
@@ -73,7 +73,7 @@
 			            </div>
 			            <div class="blog-item">
 			                <div class="image-wrap">
-			                    <a href="blog-single.html"><img src="assets/images/blog/style1/3.jpg" alt=""></a>
+			                    <a href="blog-single.html"><img src="<?php echo base_url() ?>assets/images/blog/style1/3.jpg" alt=""></a>
 			                </div>
 			                <div class="blog-content">
 			                	<ul class="blog-meta">
@@ -94,7 +94,7 @@
 			            </div>
 			            <div class="blog-item">
 			                <div class="image-wrap">
-			                    <a href="blog-single.html"><img src="assets/images/blog/style1/4.jpg" alt=""></a>
+			                    <a href="blog-single.html"><img src="<?php echo base_url() ?>assets/images/blog/style1/4.jpg" alt=""></a>
 			                </div>
 			                <div class="blog-content">
 			                	<ul class="blog-meta">
@@ -115,7 +115,7 @@
 			            </div>
 			            <div class="blog-item">
 			                <div class="image-wrap">
-			                    <a href="blog-single.html"><img src="assets/images/blog/style1/5.jpg" alt=""></a>
+			                    <a href="blog-single.html"><img src="<?php echo base_url() ?>assets/images/blog/style1/5.jpg" alt=""></a>
 			                </div>
 			                <div class="blog-content">
 			                	<ul class="blog-meta">
@@ -136,7 +136,7 @@
 			            </div>
 			            <div class="blog-item">
 			                <div class="image-wrap">
-			                    <a href="blog-single.html"><img src="assets/images/blog/style1/6.jpg" alt=""></a>
+			                    <a href="blog-single.html"><img src="<?php echo base_url() ?>assets/images/blog/style1/6.jpg" alt=""></a>
 			                </div>
 			                <div class="blog-content">
 			                	<ul class="blog-meta">

@@ -76,6 +76,6 @@
     </section>
   </div>
 
-  <?php include('tema-css.php') ?>
+  <?php include('tema-js.php') ?>
 </body>
 </html>
