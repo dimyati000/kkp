@@ -61,15 +61,16 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-8 col-12 order-lg-2 order-1 min-vh-100 background-walk-y position-relative overlay-gradient-bottom" data-background="<?php echo base_url() ?>assets/img/unsplash/login-bg.jpg">
+        <!-- <div style="display: flex; width: 1000%;  padding: 2px; background-color: rgba(47, 70, 95, 0.4);" class="col-lg-8 col-12 order-lg-2 order-1 position-relative overlay-gradient-bottom" data-background="<?php echo base_url(); ?>assets/img/monumen-jayandaru--.jpg"> -->
+        <div class="col-lg-8 col-12 order-lg-2 order-1  background-walk-y position-relative overlay-gradient-bottom" data-background="<?php echo base_url(); ?>assets/img/monumen-jayandaru--.jpg">
           <div class="absolute-bottom-left index-2">
-            <div class="text-light p-5 pb-2">
+            <!-- <div class="text-light p-5 pb-2">
               <div class="mb-5 pb-3">
                 <h1 class="mb-2 display-4 font-weight-bold">Good Morning</h1>
                 <h5 class="font-weight-normal text-muted-transparent">Bali, Indonesia</h5>
               </div>
-              Photo by <a class="text-light bb" target="_blank" href="https://unsplash.com/photos/a8lTjWJJgLA">Justin Kauffman</a> on <a class="text-light bb" target="_blank" href="https://unsplash.com">Unsplash</a>
-            </div>
+              Photo by <a class="text-light bb" target="_blank" href="<?php echo base_url(); ?>assets/img/monumen-jayandaru.jpg">Justin Kauffman</a> on <a class="text-light bb" target="_blank" href="https://unsplash.com">Unsplash</a>
+            </div> -->
           </div>
         </div>
       </div>

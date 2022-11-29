@@ -11,7 +11,7 @@ class Blog extends CI_Controller{
 
     public function detail_blog(){
         $data['title'] = "Blog | Kantor Konsultan Pajak dan Hukum";
-        $data['konten'] = "blog-klien/detail_blog.php";    
+        $data['konten'] = "blog-klien/detail-blog.php";    
 
         $this->load->view('halaman-klien/tema-klien.php', $data);
     }

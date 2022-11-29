@@ -30,7 +30,7 @@
 										placeholder="Phone Number" required="">
 								</div>
 								<div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-									<input class="from-control" type="text" id="layanan" name="ayanan"
+									<input class="from-control" type="text" id="layanan" name="layanan"
 										placeholder="Jenis Layanan" required="">
 								</div>
 								<div class="col-lg-12 mb-30">
