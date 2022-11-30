@@ -15,6 +15,20 @@ class Blog extends CI_Controller{
 
         $this->load->view('halaman-klien/tema-klien.php', $data);
     }
+
+    public function detail_blog2(){
+        $data['title'] = "Blog | Kantor Konsultan Pajak dan Hukum";
+        $data['konten'] = "blog-klien/detail-blog2.php";    
+
+        $this->load->view('halaman-klien/tema-klien.php', $data);
+    }
+
+    public function detail_blog3(){
+        $data['title'] = "Blog | Kantor Konsultan Pajak dan Hukum";
+        $data['konten'] = "blog-klien/detail-blog3.php";    
+
+        $this->load->view('halaman-klien/tema-klien.php', $data);
+    }
 }
 
 ?>

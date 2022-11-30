@@ -20,29 +20,32 @@
 			</div>
 			<!-- Breadcrumbs End -->
 
-			<!-- Blog Section 1 Start -->
+			<!-- Blog Section 2 Start -->
 			<div class="rs-inner-blog pt-120 pb-105 md-pt-80 md-pb-80">
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-8 md-mb-50">
 							<div class="blog-details">
 								<div class="bs-img mb-50">
-									<a href="#"><img src="<?php echo base_url() ?>assets/klien/images/blog/style1/beritapajak1.jpeg" alt=""></a>
+									<a href="#"><img src="<?php echo base_url() ?>assets/klien/images/blog/style1/beritaakuntan.jpg" alt=""></a>
 								</div>
 								<div class="blog-full">
 									<div class="blog-content-full">
 										<p class="pb-25">
-										Sidoarjo, KKP Indonesia - Direktorat Jenderal Pajak Kementerian Keuangan meyakini target penerimaan pajak 2022 senilai Rp 1.485 triliun dapat tercapai. Demikian disampaikan Direktur Penyuluhan, Pelayanan dan Hubungan Masyarakat DJP Kemenkeu Neilmadrin Noor dalam media gathering di Batam, Kepulauan Riau, Selasa (29/11/2022).
+										Sidoarjo, KKP Indonesia- Neraca saldo menjadi salah satu tahapan penting yang tidak boleh terlewatkan dalam siklus akuntansi. Akun dan saldo dalam neraca ini disusun berdasarkan data buku besar. Dengan demikian, penyusunan neraca saldo dilakukan setelah entri ke buku besar.
 										</p>
-										<h3 class="title pb-24">Kantor Pajak 'Pede' Target Setoran Rp1.485 T di 2022 Tercapai.</h3>
+                                        <p class="pb-25">
+										Tahukah kamu apa itu neraca saldo?
+										</p>
+										<h3 class="title pb-24">Pengertian Neraca Saldo dan Fungsinya.</h3>
 										<p class="pb-25">
-										"Kita lihat 31 Oktober kita sudah menuju 97,5%, sudah disampaikan di konferensi pers APBN kemarin. Ibu menteri (Menteri Keuangan Sri Mulyani Indrawati) menyampaikan bahwa masih optimis walaupun tetap harus waspada. Atas dasar itu, kalau kita lihat ini masih ada satu bulan, dikatakan 97,5%, kita bisa berharap kita bisa punya optimisme bahwa nanti angka Rp 1.485 triliun ini bisa tercapai," jelasnya.
+										Menurut Yayah Pudin Shatu dalam buku Kuasai Detail Akuntansi Laba dan Rugi (2016), neraca saldo adalah buku berisi daftar kumpulan saldo dari data tiap rekening. Neraca saldo adalah daftar yang berisi nama akun beserta saldo total dari tiap akun yang disusun sistematis sesuai kodenya. Seperti yang telah dikatakan di atas, penyusunan neraca ini didasarkan pada data hasil entri di buku besar.
 										</p>
 										<div class="bs-img mb-30">
 											<a href="#"><img src="assets/images/blog/style1/2.jpg" alt=""></a>
 										</div>
 										<p class="pb-30">
-											"Tapi ini hanya kemungkinan prognosanya (penerimaan pajak) akan tercapai. Kita sendiri belum tahu nanti ketika tercapai akan diumumkan ibu menteri. Ini optimisme kita saja," tambahnya.
+                                        Istilah neraca saldo juga dikenal sebagai neraca percobaan, atau yang dalam bahasa Inggris disebut trial balance.
 										</p>
 										<!-- <h3 class="title pb-20">Four major elements that we offer:</h3>
 										<ul class="stylelisting pb-20">
@@ -52,13 +55,14 @@
 											<li>Quality team always ready to help you.</li>
 										</ul> -->
 										<p>
-											
-
-Sebelumnya, dalam konferensi pers APBN KiTa, Kamis (24/11/2022), Sri Mulyani mengatakan kenaikan pajak hingga Oktober 2022, total penerimaan pajak Rp 1.448,2 triliun atau 97,5% dari target.
+                                        Dilansir dari situs Investopedia, neraca saldo adalah lembar kerja pembukuan di mana saldo buku besar dikompilasi dalam kolom akun debit dan kredit dalam jumlah yang sama.
 										</p>
-										<blockquote>
-											<p>Mari Wajib Pajak.</p>
-										</blockquote>
+                                        <p>
+                                        Apabila total debit dan kreditnya sama, berarti neraca saldo seimbang. Sebaliknya, jika total saldonya berbeda, berarti neracanya tidak seimbang.
+										</p>
+                                        <p>
+                                        Meski begitu, posisi neraca saldo yang seimbang bukan berarti tidak ada kesalahan dalam sistem akuntansi perusahaan.
+										</p>
 										<!-- <p class="pb-30">
 											We denounce with righteous indignation and dislike men who are so beguiled and
 											demoralized by the charms of pleasure of the moment, so blinded by desire, that they
@@ -84,7 +88,7 @@ Sebelumnya, dalam konferensi pers APBN KiTa, Kamis (24/11/2022), Sri Mulyani men
 										</p> -->
 										<div class="bs-info">
 											Tags:
-											<a href="#">Perpajakan</a>
+											<a href="#">Akuntansi</a>
 										</div>
 									</div>
 								</div>
@@ -146,5 +150,5 @@ Sebelumnya, dalam konferensi pers APBN KiTa, Kamis (24/11/2022), Sri Mulyani men
 					</div>
 				</div>
 			</div>
-			<!-- Blog Section 1 End -->
-
+			<!-- Blog Section 2 End -->
+			
