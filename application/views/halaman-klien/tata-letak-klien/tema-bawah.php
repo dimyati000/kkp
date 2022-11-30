@@ -9,7 +9,8 @@
 							</div>
 							<div class="textwidget">
 								<p class="pb-20">Terpercaya dalam kerahasiaan data dan kemudahan pengusaha untuk mengatasi permasalahan dalam bidang sesuai kebutuhan klien.</p>
-								<p class="pb-25"><strong>Jam Pelayanan</strong> : Senin – Sabtu: 8am to 5pm</p>
+								<p><strong>Jam Pelayanan</strong> :</p>
+								<p class="pb-25">Senin - Sabtu : 8.00 am to 5.00 pm</p>
 							</div>
 							<ul class="footer-social md-mb-30">  
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>                     

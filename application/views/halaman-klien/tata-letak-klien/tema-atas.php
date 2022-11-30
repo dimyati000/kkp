@@ -24,7 +24,7 @@
 					<div class="col-lg-5">
 						<div class="toolbar-sl-share">
 							<ul class="clearfix">
-								<li class="opening"> <em><i class="fi fi-rr-time-add"></i> Jam Pelayanan: Senin-Sabtu:
+								<li class="opening"> <em><i class="fi fi-rr-time-add"></i>Jam Pelayanan : Senin-Sabtu :
 										8.00 am - 5.00 pm</em> </li>
 								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
