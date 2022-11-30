@@ -60,7 +60,7 @@
 			</div>
 			<div class="blog-item">
 				<div class="image-wrap">
-					<a href="<?php echo site_url('Blog/Detail_Blog') ?>"><img src="<?php echo base_url() ?>assets/klien/images/blog/style1/beritapajak2.jpeg"
+					<a href="<?php echo site_url('Blog/Detail_Blog2') ?>"><img src="<?php echo base_url() ?>assets/klien/images/blog/style1/beritaakuntan.jpg"
 							alt=""></a>
 				</div>
 				<div class="blog-content">
@@ -68,10 +68,10 @@
 						<li class="date"><i class="fa fa-calendar-check-o"></i>23 Oktober 2022</li>
 						<li class="admin"><i class="fa fa-user-o"></i>Admin</li>
 					</ul>
-					<h3 class="blog-title"><a href="<?php echo site_url('Blog/Detail_Blog') ?>">Hitungan Harga Jual Eceran BBM Berubah, Bakal Naik!</a></h3>
-					<p class="desc">Sidoarjo, KKP Indonesia - Pemerintah menerbitkan aturan baru mengenai perhitungan harga jual eceran Bahan Bakar Minyak (BBM)...</p>
+					<h3 class="blog-title"><a href="<?php echo site_url('Blog/Detail_Blog') ?>">Pengertian Neraca Saldo dan Fungsinya</a></h3>
+					<p class="desc">Menurut Yayah Pudin Shatu dalam buku Kuasai Detail Akuntansi Laba dan Rugi (2016), neraca saldo adalah buku berisi daftar kumpulan saldo dari data tiap rekening.</p>
 					<div class="blog-button blog-bnt2">
-						<a href="<?php echo site_url('Blog/Detail_Blog') ?>">
+						<a href="<?php echo site_url('Blog/Detail_Blog2') ?>">
 							<span class="btn-text">
 								Read More
 							</span>
@@ -82,7 +82,7 @@
 			</div>
 			<div class="blog-item">
 				<div class="image-wrap">
-					<a href="<?php echo site_url('Blog/Detail_Blog') ?>"><img src="<?php echo base_url() ?>assets/klien/images/blog/style1/beritapajak3.jpeg"
+					<a href="<?php echo site_url('Blog/Detail_Blog3') ?>"><img src="<?php echo base_url() ?>assets/klien/images/blog/style1/beritapajak3.jpeg"
 							alt=""></a>
 				</div>
 				<div class="blog-content">
@@ -94,7 +94,7 @@
 					</h3>
 					<p class="desc">Sidoarjo, KKP Indonesia - Anda bingung bagaimana cara mencetak kartu Nomor Pokok Wajib Pajak (NPWP)? Anda kini bisa mencetak ulang kartu NPWP dari mana saja karena dapat dilakukan secara online....</p>
 					<div class="blog-button blog-bnt2">
-						<a href="<?php echo site_url('Blog/Detail_Blog') ?>">
+						<a href="<?php echo site_url('Blog/Detail_Blog3') ?>">
 							<span class="btn-text">
 								Read More
 							</span>
