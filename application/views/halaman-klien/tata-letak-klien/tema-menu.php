@@ -24,7 +24,7 @@
 											<a href="<?= site_url('Klien/About') ?>">About</a>
 										</li>
 										<li class="menu-item-has-children">
-											<a href="services.html">Services</a>
+											<a>Services</a>
 											<ul class="sub-menu">
 												<li><a href="<?= site_url('Jasa/Perpajakan') ?>">Jasa Perpajakan</a></li>
 												<li><a href="<?= site_url('Jasa/Akuntansi') ?>">Jasa Akuntansi</a></li>
@@ -62,7 +62,7 @@
 										</form>
 									</div>
 								</li>
-								<li class="btn-quote"><a class="quote-button" target="_blank" href="https://api.whatsapp.com/send?phone=6281331907979&text=Halo%20admin%20Kantor%20Konsultan%20Pajak%20dan%20Hukum%20terdaftar%20Eko%20dan%20rekan,%20saya%20mau%20tanya%20.....">Let's Talk<i class="fi fi-rr-arrow-small-right"></i></a></li>							
+								<li class="btn-quote"><a class="quote-button" target="_blank" href="https://api.whatsapp.com/send?phone=6281331907979&text=Halo%20admin%20Kantor%20Konsultan%20Pajak%20dan%20Hukum%20terdaftar%20Eko%20dan%20rekan,%20saya%20mau%20tanya%20.....">Let's Talk</a></li>							
 							</ul>
 						</div>
 					</div>
@@ -90,7 +90,7 @@
 					<a href="<?= site_url('Klien/about') ?>">About</a>
 				</li>
 				<li class="menu-item-has-children">
-					<a href="/">Services</a>
+					<a>Services</a>
 					<ul class="sub-menu">
 						<li><a href="<?= site_url('Klien/pepajakan') ?>">Jasa Perpajakan</a></li>
 						<li><a href="<?= site_url('Klien/akuntansi') ?>">Jasa Akuntansi</a></li>

@@ -216,13 +216,14 @@ ul {
   background-size: cover;
 }
 .bg2 {
-  background: url(images/bg/counter-bg.jpg);
+  background: url(images/bg/bg2.jpg);
+  /* background-color:  #ffb703 ; */
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .bg3 {
-  background: url(images/bg/contact-bg.jpg);
+  background: url(images/bg/bg3.jpg);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
