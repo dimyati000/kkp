@@ -11,7 +11,7 @@
                            <li title="Go to konstruk">
                                <a class="active" href="<?= site_url('') ?>">Home</a>
                            </li>
-                          <li>Jasa Akuntanasi</li>
+                          <li>Jasa Akuntansi</li>
                        </ul>
 			        </div>
 			    </div>
@@ -28,9 +28,10 @@
 	        					    <h3 class="pricing-table-title">Jasa Akuntansi</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/AK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/ac1.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">50Jt</span>
 				                    <span class="pricing-table-period">Tahun</span>
