@@ -28,9 +28,10 @@
 	        					    <h3 class="pricing-table-title">Pengacara Perceraian</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/HK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/hm1.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">6Jt</span>
 				                </div>
@@ -53,9 +54,10 @@
 	        					    <h3 class="pricing-table-title">Pengacara Pidana Umum dan Khusus</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/HK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/hm2.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">4Jt</span>
 				                </div>
@@ -75,9 +77,10 @@
 	        					    <h3 class="pricing-table-title">Pengacara Hutang Piutang</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/HK.png">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/hm3.png">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">3Jt</span>
 				                </div>
@@ -97,9 +100,10 @@
 	        					    <h3 class="pricing-table-title">Pengacara Pertanahan</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/HK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/hm4.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">5Jt</span>
 				                </div>
@@ -119,9 +123,10 @@
 	        					    <h3 class="pricing-table-title">Pengacara Gugatan PMH</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/HK.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/hm5.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">7Jt</span>
 				                </div>

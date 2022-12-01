@@ -28,9 +28,10 @@
 	        					    <h3 class="pricing-table-title">Konsultasi Pelaporan Pajak Bulanan</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/se1.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">2jt</span>
 				                    <span class="pricing-table-period">Bulan</span>
@@ -51,9 +52,10 @@
 	        					    <h3 class="pricing-table-title">Konsultasi Pelaporan Pajak Tahunan</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/pj.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/se2.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">5Jt</span>
 				                    <span class="pricing-table-period">Tahun</span>
@@ -75,9 +77,10 @@
 	        					    <h3 class="pricing-table-title">Konsultasi Permasalahan Pajak</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/se3.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">1Jt</span>
 				                    <span class="pricing-table-period">2 Jam</span>
@@ -100,9 +103,10 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Konsultasi Perencanaan Pajak</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/se4.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">2Jt</span>
 				                    <span class="pricing-table-period">Bulan</span>
@@ -125,9 +129,10 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Laporan Keuangan Fiskal</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/se5.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">5Jt</span>
 				                    <span class="pricing-table-period">Tahun</span>
@@ -148,9 +153,10 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Konsultasi Laporan Komersial</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/se6.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">5Jt</span>
 				                    <span class="pricing-table-period">Tahun</span>
@@ -171,9 +177,10 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Pendampingan SP2DK</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/se7.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">30Jt</span>
 				                    <span class="pricing-table-period">Tahun</span>
@@ -203,9 +210,10 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Pendampingan Pemeriksaan Pajak</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/se8.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">50Jt</span>
 				                    <span class="pricing-table-period">Tahun</span>
@@ -226,9 +234,10 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Pendampingan Keberatan Pajak</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/se9.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">50Jt</span>
 				                    <span class="pricing-table-period">Tahun</span>
@@ -264,9 +273,10 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Pengacara Banding Pajak</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/se10.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">50Jt</span>
 				                    <span class="pricing-table-period">Tahun</span>
@@ -287,9 +297,10 @@ Membantu untuk menyelesaikan masalah pajak yang sering terjadi. Seperti merasa t
 	        					    <h3 class="pricing-table-title">Pengacara Peninjauan Kembali Pajak</h3>
 	        					</div>
 	        					<div class="pricing-icon">
-	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/PJ.png" alt="Images">
+	        						<img src="<?php echo base_url() ?>assets/klien/images/services/main-home/main-icons/se11.png" alt="Images">
 	        					</div>
 	        					<div class="pricing-table-price-tag">
+									<h5>Mulai Dari</h5>
 				                    <span class="pricing-table-currency">Rp</span>
 				                    <span class="pricing-table-price-text">50Jt</span>
 				                    <span class="pricing-table-period">Tahun</span>

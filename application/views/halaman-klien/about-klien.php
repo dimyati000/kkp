@@ -164,7 +164,7 @@
 						<div class="col-lg-3 col-md-6 md-mb-30">
 							<div class="services-item">
 								<div class="services-icon">
-									<img src="<?php echo base_url() ?>assets/klien/images/process/style1/1.png" alt="Images">
+									<img src="<?php echo base_url() ?>assets/klien/images/process/style1/work1.png" alt="Images">
 								</div>
 								<div class="content-text">
                                     <h4 class="title">Konsultasi</h4>
@@ -175,7 +175,7 @@
 						<div class="col-lg-3 col-md-6 sm-mb-30">
 							<div class="services-item">
 								<div class="services-icon blue-icon-bg">
-									<img src="<?php echo base_url() ?>assets/klien/images/process/style1/1.png" alt="Images">
+									<img src="<?php echo base_url() ?>assets/klien/images/process/style1/cb1.png" alt="Images">
 								</div>
 								<div class="content-text">
                                     <h4 class="title">Konfirmasi Layanan</h4>
@@ -186,7 +186,7 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="services-item">
 								<div class="services-icon">
-									<img src="<?php echo base_url() ?>assets/klien/images/process/style1/1.png" alt="Images">
+									<img src="<?php echo base_url() ?>assets/klien/images/process/style1/work3.png" alt="Images">
 								</div>
 								<div class="content-text">
                                     <h4 class="title">Pembayaran</h4>
@@ -197,7 +197,7 @@
 						<div class="col-lg-3 col-md-6 sm-mb-30">
 							<div class="services-item">
 								<div class="services-icon blue-icon-bg">
-									<img src="<?php echo base_url() ?>assets/klien/images/process/style1/1.png" alt="Images">
+									<img src="<?php echo base_url() ?>assets/klien/images/process/style1/work4.png" alt="Images">
 								</div>
 								<div class="content-text">
                                     <h4 class="title">Menikmati Layanan</h4>
