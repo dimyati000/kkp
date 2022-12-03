@@ -11,7 +11,7 @@
 <body>
 	<h3>Coba</h3>
 	<ul>
-		<li><a href="<?php echo site_url('Klien/translate/in'); ?>">Indonesai</a></li>
+		<li><a href="<?php echo site_url('Klien/translate/in'); ?>">Indonesia</a></li>
 		<li><a href="<?php echo site_url('Klien/translate/en'); ?>">English</a></li>
 	</ul>
 

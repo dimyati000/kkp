@@ -84,7 +84,7 @@ $db['default'] = array(
 	'username' => 'root',
 	'password' => '',
 	'database' => 'db_konsultan',
-  
+
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
