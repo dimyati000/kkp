@@ -41,7 +41,7 @@
 							</div>
 							<div class="btn-part">
 								<div class="form-group mb-0">
-								<button type="button" onclick="send()" class="btn btn-primary btn-sm">Kirim Pesan</button>
+								<button type="button" onclick="send()" class="btn btn-warning btn-sm"><b>Kirim Pesan</b></button>
 									
 									<!-- <input   class="readon more submit" type="submit" value="a"> -->
 								</div>
@@ -93,7 +93,6 @@
 </div>
 <!-- Contact Section End -->
 <!-- Kirim Chat WA -->
-<?php echo include('tema-js.php') ?>
 <script>
 	function send() {
 		var nama = document.getElementById('nama').value;
