@@ -37,6 +37,8 @@
 										<li>
 											<a href="<?= site_url('Contact') ?>">Contact</a>
 										</li>
+										<li><a href="<?php echo site_url('Klien/translate/in'); ?>">Indonesia</a></li>
+										<li><a href="<?php echo site_url('Klien/translate/en'); ?>">English</a></li>
 									</ul> <!-- //.nav-menu -->
 								</nav>
 							</div> <!-- //.main-menu -->
