@@ -36,27 +36,28 @@
                                     <fieldset>
                                         <div class="row">
                                             <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-                                                <input class="from-control" type="text" id="name" name="name" placeholder="Name" required="">
+                                                <input class="from-control" type="text" id="name" name="nama" placeholder="Name" required="">
                                             </div> 
                                             <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-                                                <input class="from-control" type="text" id="email" name="email" placeholder="E-Mail" required="">
+                                                <input class="from-control" type="text" id="email" name="email" placeholder="Email" required="">
                                             </div>   
                                             <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-                                                <input class="from-control" type="text" id="phone" name="phone" placeholder="Phone Number" required="">
+                                                <input class="from-control" type="text" id="phone" name="notelepon" placeholder="Phone Number" required="">
                                             </div>
                                             <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-                                                <input class="from-control" type="text" id="website" name="website" placeholder="Your Website" required="">
+                                                <input class="from-control" type="text" id="layanan" name="layanan" placeholder="Services" required="">
                                             </div>
                                             <div class="col-lg-12 mb-30">
-                                                <textarea class="from-control" id="message" name="message" placeholder="Your Message Here" required=""></textarea>
+                                                <textarea class="from-control" id="message" name="message" placeholder="Message" required=""></textarea>
                                             </div>
                                         </div>
                                         <div class="btn-part">                                            
                                             <div class="form-group mb-0">
-                                                <input class="readon more submit sub-con" type="submit" value="Submit Now">
+                                                <button type="button" onclick="send()" class="btn btn-warning btn-lg"><b>Submit Now</b></button>
                                             </div>
                                         </div> 
-                                    </fieldset>
+										<div id="pesan"></div>
+                                    <!-- </fieldset> -->
                                 </form> 
                             </div>
                         </div>
@@ -64,6 +65,7 @@
 			        <div class="col-lg-4 contact-project"></div>
 			    </div>
 			    <!-- Contact Icons Section End -->
+			
 			    <div class="rs-contact pt-120 md-pt-80">
 			        <div class="container">
 			            <div class="row">
@@ -108,3 +110,4 @@
 			    <!-- Contact Icons Section End -->
 			</div>
 			<!-- Contact Section End -->
+			
