@@ -120,7 +120,7 @@
 				hukum.</span>
 			<ul class="breadcrumbs-area">
 				<li title="Go to konstruk">
-					<a class="active" href="index.html">Home</a>
+					<a class="active" href="index.html">Beranda</a>
 				</li>
 				<li>Blog</li>
 			</ul>
