@@ -92,12 +92,12 @@
             </div>
             <div class="col-lg-4 col-md-12 pl-25 md-pl-15">
                 <div class="widget-area">
-                    <div class="search-widget mb-50">
+                    <!-- <div class="search-widget mb-50">
                         <div class="search-wrap">
                             <input type="search" placeholder="Searching..." name="s" class="search-input" value="">
                             <button type="submit" value="Search"><i class="flaticon-search"></i></button>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="recent-posts mb-50">
                         <div class="widget-title">
                             <h3 class="title">Recent Posts</h3>
@@ -251,12 +251,12 @@
             </div>
             <div class="col-lg-4 col-md-12 pl-25 md-pl-15">
                 <div class="widget-area">
-                    <div class="search-widget mb-50">
+                    <!-- <div class="search-widget mb-50">
                         <div class="search-wrap">
                             <input type="search" placeholder="Searching..." name="s" class="search-input" value="">
                             <button type="submit" value="Search"><i class="flaticon-search"></i></button>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="recent-posts mb-50">
                         <div class="widget-title">
                             <h3 class="title">Postingan Terbaru</h3>
