@@ -34,7 +34,7 @@
 						KPP Eko Budi Setiawan
 					</span>
 					<h2 class="title pb-20">
-                        Eko and Rekan Registered Tax and Legal Consultant Office
+						Eko and colleagues at a Registered Tax and Legal Consultant Office
 								</h2>
 					<p class="desc pb-37">
                         Helping you to understand, manage and assist you in providing consulting services to your business. 
@@ -632,7 +632,7 @@
 								</div>
 								<div class="col-lg-6 col-md-6 col-sm-6 mb-30">
 									<input class="from-control" type="text" id="notelepon" name="notelepon"
-									placeholder="Phone Number" required="">
+									placeholder="Telepon" required="">
 								</div>
 								<div class="col-lg-6 col-md-6 col-sm-6 mb-30">
 									<input class="from-control" type="text" id="layanan" name="layanan"
@@ -684,7 +684,7 @@
 						<img src="<?= base_url() ?>assets/klien/images/contact/style1/icons/3.png" alt="images">
 					</div>
 					<div class="content-text">
-						<h4 class="title"><a href="#">Kontak</a></h4>
+						<h4 class="title"><a href="#">Telepon</a></h4>
 						<p class="services-txt">
 							<a href="tel:(+088)589-8745">(+62) 813-3190-7979</a><br>
 							<a href="tel:(+088)222-9999">(+62) 856-0757-5713 </a>
