@@ -68,7 +68,7 @@
 			<span class="sub-text">Kami melakukan yang terbaik dalam melayani anda pada segala masalah akuntansi.</span>
 			<ul class="breadcrumbs-area">
 				<li title="Go to konstruk">
-					<a class="active" href="<?= site_url('') ?>">Home</a>
+					<a class="active" href="<?= site_url('') ?>">Beranda</a>
 				</li>
 				<li>Jasa Akuntansi</li>
 			</ul>

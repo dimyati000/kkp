@@ -178,7 +178,7 @@
                 hukum yang anda temukan.</span>
             <ul class="breadcrumbs-area">
                 <li title="Go to konstruk">
-                    <a class="active" href="<?= site_url('') ?>">Home</a>
+                    <a class="active" href="<?= site_url('') ?>">Beranda</a>
                 </li>
                 <li><a class="active" href="<?= site_url('Blog') ?>">Blog</li>
                 </li>

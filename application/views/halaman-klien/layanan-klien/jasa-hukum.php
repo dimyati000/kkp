@@ -186,7 +186,7 @@
 				hukum.</span>
 			<ul class="breadcrumbs-area">
 				<li title="Go to konstruk">
-					<a class="active" href="<?= site_url('') ?>">Home</a>
+					<a class="active" href="<?= site_url('') ?>">Beranda</a>
 				</li>
 				<li>Jasa Hukum</li>
 			</ul>
