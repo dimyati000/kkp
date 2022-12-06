@@ -26,6 +26,8 @@
 <script src="<?php echo base_url() ?>assets/klien/js/jquery.counterup.min.js"></script> 
 <!-- Nivo slider js -->
 <script src="<?php echo base_url() ?>assets/klien/inc/custom-slider/js/jquery.nivo.slider.js"></script>		
+<!-- tilt js -->
+<script src="<?php echo base_url() ?>assets/klien/js/tilt.jquery.min.js"></script> 	
 <!-- contact form js -->
 <script src="<?php echo base_url() ?>assets/klien/js/contact.form.js"></script>
 <!-- main js -->
