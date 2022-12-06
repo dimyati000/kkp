@@ -38,8 +38,8 @@
                                 <li>
                                     <a href="<?= site_url('Contact') ?>">Contact Us</a>
                                 </li>
-                                <li><a href="<?php echo site_url('Klien/translate/in'); ?>">Indonesia</a></li>
-                                <li><a href="<?php echo site_url('Klien/translate/en'); ?>">English</a></li>
+                                <!-- <li><a href="<?php echo site_url('Klien/translate/in'); ?>">Indonesia</a></li>
+                                <li><a href="<?php echo site_url('Klien/translate/en'); ?>">English</a></li> -->
                             </ul> <!-- //.nav-menu -->
                         </nav>
                     </div> <!-- //.main-menu -->
@@ -48,7 +48,7 @@
             <div class="col-cell">
                 <div class="expand-btn-inner">
                     <ul>
-                        <li class="search-parent">
+                        <!-- <li class="search-parent">
                             <a class="hidden-xs rs-search" href="#">
                                 <i class="fi fi-rr-search"></i>
                             </a>
@@ -63,7 +63,7 @@
                                     </div>
                                 </form>
                             </div>
-                        </li>
+                        </li> -->
                         <li class="btn-quote"><a class="quote-button" target="_blank"
                                 href="https://api.whatsapp.com/send?phone=6281331907979&text=Halo%20admin%20Kantor%20Konsultan%20Pajak%20dan%20Hukum%20terdaftar%20Eko%20dan%20rekan,%20saya%20mau%20tanya%20.....">Let's
                                 Talk</a></li>
@@ -185,8 +185,8 @@
                                 <li>
                                     <a href="<?= site_url('Contact') ?>">Hubungi Kami</a>
                                 </li>
-                                <li><a href="<?php echo site_url('Klien/translate/in'); ?>">Indonesia</a></li>
-                                <li><a href="<?php echo site_url('Klien/translate/en'); ?>">English</a></li>
+                                <!-- <li><a href="<?php echo site_url('Klien/translate/in'); ?>">Indonesia</a></li>
+                                <li><a href="<?php echo site_url('Klien/translate/en'); ?>">English</a></li> -->
                             </ul> <!-- //.nav-menu -->
                         </nav>
                     </div> <!-- //.main-menu -->
@@ -195,7 +195,7 @@
             <div class="col-cell">
                 <div class="expand-btn-inner">
                     <ul>
-                        <li class="search-parent">
+                        <!-- <li class="search-parent">
                             <a class="hidden-xs rs-search" href="#">
                                 <i class="fi fi-rr-search"></i>
                             </a>
@@ -210,7 +210,7 @@
                                     </div>
                                 </form>
                             </div>
-                        </li>
+                        </li> -->
                         <li class="btn-quote"><a class="quote-button" target="_blank"
                                 href="https://api.whatsapp.com/send?phone=6281331907979&text=Halo%20admin%20Kantor%20Konsultan%20Pajak%20dan%20Hukum%20terdaftar%20Eko%20dan%20rekan,%20saya%20mau%20tanya%20.....">Let's
                                 Talk</a></li>

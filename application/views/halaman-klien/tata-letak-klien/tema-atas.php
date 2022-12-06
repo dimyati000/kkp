@@ -9,7 +9,7 @@
 							<ul class="rs-contact-info">
 								<li>
 									<i class="fi fi-rr-envelope-plus"></i>
-									<a href="mailto:kkpekobudisetiawan@gmail.com">eko@konsultanpajakindo.com</a>
+									<a href="mailto:kkpekobudisetiawan@gmail.com">kkpekobudisetiawan@gmail.com</a>
 								</li>
 								<li>
 									<i class="fi fi-rr-phone-call"></i>
