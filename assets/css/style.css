@@ -6399,6 +6399,25 @@ blockquote {
 			    color: @red-color !important;
 			}
 			.expand-btn-inner{
+				.toolbar-sl-share{
+					border-right: 1px solid rgba(255, 255, 255, 0.42);
+					padding-right: 14px;
+					.clearfix{
+						li{
+							display: inline-block;
+							a{
+								display: block;
+								margin: 0 10px;
+								color: #ffffff;
+								transition: 0.3s;
+								font-size: 15px;
+								&:hover{
+									color: #ccc;
+								}
+							}
+						}
+					}
+				}
 				.rs-contact-phone{
 					display: flex;
 					align-items: center;
