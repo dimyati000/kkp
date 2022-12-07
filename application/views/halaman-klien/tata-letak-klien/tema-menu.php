@@ -66,7 +66,23 @@
                         </li> -->
                         <li class="btn-quote"><a class="quote-button" target="_blank"
                                 href="https://api.whatsapp.com/send?phone=6281331907979&text=Halo%20admin%20Kantor%20Konsultan%20Pajak%20dan%20Hukum%20terdaftar%20Eko%20dan%20rekan,%20saya%20mau%20tanya%20.....">Let's
-                                Talk</a></li>
+                                Talk</a>
+                        </li>
+                        <li class="humburger">
+                            <a id="nav-expander" class="nav-expander bar" href="#">
+                                <div class="bar">
+                                    <span class="dot1"></span>
+                                    <span class="dot2"></span>
+                                    <span class="dot3"></span>
+                                    <span class="dot4"></span>
+                                    <span class="dot5"></span>
+                                    <span class="dot6"></span>
+                                    <span class="dot7"></span>
+                                    <span class="dot8"></span>
+                                    <span class="dot9"></span>
+                                </div>
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -212,8 +228,24 @@
                             </div>
                         </li> -->
                         <li class="btn-quote"><a class="quote-button" target="_blank"
-                                href="https://api.whatsapp.com/send?phone=6281331907979&text=Halo%20admin%20Kantor%20Konsultan%20Pajak%20dan%20Hukum%20terdaftar%20Eko%20dan%20rekan,%20saya%20mau%20tanya%20.....">Let's
-                                Talk</a></li>
+                                href="https://api.whatsapp.com/send?phone=6281331907979&text=Halo%20admin%20Kantor%20Konsultan%20Pajak%20dan%20Hukum%20terdaftar%20Eko%20dan%20rekan,%20saya%20mau%20tanya%20.....">Mari
+                                Konsultasi</a>
+                        </li>
+                        <li class="humburger">
+                            <a id="nav-expander" class="nav-expander bar" href="#">
+                                <div class="bar">
+                                    <span class="dot1"></span>
+                                    <span class="dot2"></span>
+                                    <span class="dot3"></span>
+                                    <span class="dot4"></span>
+                                    <span class="dot5"></span>
+                                    <span class="dot6"></span>
+                                    <span class="dot7"></span>
+                                    <span class="dot8"></span>
+                                    <span class="dot9"></span>
+                                </div>
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </div>
