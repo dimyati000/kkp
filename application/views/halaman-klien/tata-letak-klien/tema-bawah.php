@@ -153,16 +153,16 @@
                     <div class="row y-middle">
                         <div class="col-lg-6 md-mb-10 text-lg-end text-center order-last">
                             <ul class="copy-right-menu">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="<?= site_url('Klien/about') ?>">About</a></li>
-                                <li><a href="services.html">Services</a></li>
+                                <li><a href="index.html">Beranda</a></li>
+                                <li><a href="<?= site_url('Klien/about') ?>">Tentang Kami</a></li>
+                                <li><a href="services.html">Layanan</a></li>
                                 <li><a href="blog.html">Blog</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="contact.html">Hubungi Kami</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
                             <div class="copyright text-lg-start text-center">
-                                <p>© 2022 KKP | Designed By <a href="#">Kantor Konsultan Pajak dan Hukum Eko & Rekan</a>
+                                <p>© 2022 KKP | Dirancang oleh <a href="#">Kantor Konsultan Pajak dan Hukum Eko & Rekan</a>
                                     <!-- href="https://www.linkedin.com/in/nih-latulia-rohmah-tiyas-122128246/">Nih Latulia Rohmah Tiyas</a> -->
                                     
                             </div>
