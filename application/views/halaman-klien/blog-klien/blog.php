@@ -9,7 +9,7 @@
 			<span class="sub-text">You can find information related to taxation, accounting and law</span>
 			<ul class="breadcrumbs-area">
 				<li title="Go to konstruk">
-					<a class="active" href="index.html">Home</a>
+					<a class="active" href="<?= site_url('') ?>">Home</a>
 				</li>
 				<li>Blog</li>
 			</ul>
@@ -120,7 +120,7 @@
 				hukum.</span>
 			<ul class="breadcrumbs-area">
 				<li title="Go to konstruk">
-					<a class="active" href="index.html">Beranda</a>
+					<a class="active" href="<?= site_url('') ?>">Beranda</a>
 				</li>
 				<li>Blog</li>
 			</ul>

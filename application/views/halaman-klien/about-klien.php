@@ -9,7 +9,7 @@
                 <span class="sub-text">We are ready to help your company.</span>
                 <ul class="breadcrumbs-area">
                     <li title="Go to konstruk">
-                        <a class="active" href="index.html">Home</a>
+                        <a class="active" href="<?= site_url('') ?>">Home</a>
                     </li>
                     <li>About</li>
                 </ul>
@@ -390,7 +390,7 @@
                 <span class="sub-text">Kami Siap Membantu Perusahaan Anda.</span>
                 <ul class="breadcrumbs-area">
                     <li title="Go to konstruk">
-                        <a class="active" href="index.html">Beranda</a>
+                        <a class="active" href="<?= site_url('') ?>">Beranda</a>
                     </li>
                     <li>Tentang Kami</li>
                 </ul>
