@@ -96,9 +96,9 @@
         <li class="menu-item-has-children">
             <a>Services</a>
             <ul class="sub-menu">
-                <li><a href="<?= site_url('Klien/pepajakan') ?>">Tax Service</a></li>
-                <li><a href="<?= site_url('Klien/akuntansi') ?>">Accounting Service</a></li>
-                <li><a href="<?= site_url('Klien/hukum') ?>">Legal Services</a></li>
+                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Tax Service</a></li>
+                <li><a href="<?= site_url('Jasa/akuntansi') ?>">Accounting Service</a></li>
+                <li><a href="<?= site_url('Jasa/hukum') ?>">Legal Services</a></li>
             </ul>
         </li>
         <li>
@@ -137,7 +137,7 @@
                 </div>
                 <div class="info-content">
                     <h4 class="title">Free Call</h4>
-                    <em>+019988772</em>
+                    <a href="tel:(+62)813-3190-7979">(+62) 813-3190-7979</a>
                 </div>
             </div>
         </div>
@@ -243,9 +243,9 @@
         <li class="menu-item-has-children">
             <a>Layanan</a>
             <ul class="sub-menu">
-                <li><a href="<?= site_url('Klien/pepajakan') ?>">Jasa Perpajakan</a></li>
-                <li><a href="<?= site_url('Klien/akuntansi') ?>">Jasa Akuntansi</a></li>
-                <li><a href="<?= site_url('Klien/hukum') ?>">Jasa Hukum</a></li>
+                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Jasa Perpajakan</a></li>
+                <li><a href="<?= site_url('Jasa/akuntansi') ?>">Jasa Akuntansi</a></li>
+                <li><a href="<?= site_url('Jasa/hukum') ?>">Jasa Hukum</a></li>
             </ul>
         </li>
         <li>
@@ -284,7 +284,8 @@
                 </div>
                 <div class="info-content">
                     <h4 class="title">Free Call</h4>
-                    <em>+019988772</em>
+                    <a href="tel:(+62)813-3190-7979">(+62) 813-3190-7979</a>
+
                 </div>
             </div>
         </div>
