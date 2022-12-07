@@ -51,12 +51,12 @@
 						<div class="col-lg-4 md-mb-10">
 							<h3 class="footer-title">Our service</h3>
 							<ul class="site-map">
-                                <li><a href="general-construction.html">Monthly Tax Reporting Consultation</a></li>
-                                <li><a href="property-maintenance.html">Annual Tax Reporting Consultation</a></li>
-                                <li><a href="project-managment.html">Consultation on Tax Issues</a></li>
-                                <li><a href="virtual-design-build.html">SP2DK Assistance</a></li>
-                                <li><a href="preconstruction.html">Accounting Services</a></li>
-                                <li><a href="design-build.html">Legal Services</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Monthly Tax Reporting Consultation</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Annual Tax Reporting Consultation</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Consultation on Tax Issues</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">SP2DK Assistance</a></li>
+                                <li><a href="<?= site_url('Jasa/akuntansi') ?>">Accounting Services</a></li>
+                                <li><a href="<?= site_url('Jasa/hukum') ?>">Legal Services</a></li>
                             </ul>
 						</div>
 					</div>
@@ -67,11 +67,11 @@
                     <div class="row y-middle">
                         <div class="col-lg-6 md-mb-10 text-lg-end text-center order-last">
                             <ul class="copy-right-menu">
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="<?= site_url('') ?>">Home</a></li>
                                 <li><a href="<?= site_url('Klien/about') ?>">About</a></li>
-                                <li><a href="services.html">Services</a></li>
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Services</a></li>
+                                <li><a href="<?= site_url('Blog') ?>">Blog</a></li>
+                                <li><a href="<?= site_url('Contact') ?>">Contact</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
