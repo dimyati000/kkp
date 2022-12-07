@@ -9,7 +9,7 @@
                         <span class="sub-text"></span>
 			            <ul class="breadcrumbs-area">
                            <li title="Go to konstruk">
-                               <a class="active" href="index.html">Home</a>
+                               <a class="active" href="<?= site_url('') ?>">Home</a>
                            </li>
                           <li>Contact Us</li>
                        </ul>
@@ -124,7 +124,7 @@
                         <span class="sub-text"></span>
 			            <ul class="breadcrumbs-area">
                            <li title="Go to konstruk">
-                               <a class="active" href="index.html">Beranda</a>
+                               <a class="active" href="<?= site_url('') ?>">Beranda</a>
                            </li>
                           <li>Hubungi Kami</li>
                        </ul>
