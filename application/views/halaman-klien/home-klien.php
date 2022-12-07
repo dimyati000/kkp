@@ -172,7 +172,7 @@
 		<div class="call-action">
 			<div class="sec-title text-center">
 				<span class="sub-text yellow-color">
-					<img src="<?php base_url() ?>assets/klien/images/shape-1.png" alt="Images">
+					<!-- <img src="<?php base_url() ?>assets/klien/images/shape-1.png" alt="Images"> -->
 					WORK WITH US !
 				</span>
 				<h2 class="title white-color pb-20">
@@ -365,7 +365,7 @@
 		<div class="call-action">
 			<div class="sec-title text-center">
 				<span class="sub-text yellow-color">
-					<img src="<?php base_url() ?>assets/klien/images/shape-1.png" alt="Images">
+					<!-- <img src="<?php base_url() ?>assets/klien/images/shape-1.png" alt="Images"> -->
 					BEKERJA DENGAN KAMI !
 				</span>
 				<h2 class="title white-color pb-20">

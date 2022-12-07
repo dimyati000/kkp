@@ -261,7 +261,7 @@
                                         <textarea class="from-control" id="message" name="message"
                                         placeholder="Message" required=""></textarea>
                                     </div>
-                                    <input class="from-control" type="hidden" id="telepon" name="telepon" value="081231539102">
+                                    <input class="from-control" type="hidden" id="telepon" name="telepon" value="081331907979">
                                 </div>
                                 <div class="btn-part">
                                     <div class="form-group mb-0">
@@ -305,8 +305,8 @@
                         <div class="content-text">
                             <h4 class="title"><a href="#">Contact</a></h4>
                             <p class="services-txt">
-                                <a href="tel:(+088)589-8745">(+62) 813-3190-7979</a><br>
-                                <a href="tel:(+088)222-9999">(+62) 856-0757-5713 </a>
+                                <a href="tel:(+62) 813-3190-7979">(+62) 813-3190-7979</a><br>
+                                <a href="tel:(+62) 856-0757-5713">(+62) 856-0757-5713 </a>
                             </p>
                         </div>
                     </div>
@@ -642,7 +642,7 @@
                                         <textarea class="from-control" id="message" name="message"
                                         placeholder="Pesan" required=""></textarea>
                                     </div>
-                                    <input class="from-control" type="hidden" id="telepon" name="telepon" value="081231539102">
+                                    <input class="from-control" type="hidden" id="telepon" name="telepon" value="081331907979">
                                 </div>
                                 <div class="btn-part">
                                     <div class="form-group mb-0">
@@ -686,8 +686,8 @@
                         <div class="content-text">
                             <h4 class="title"><a href="#">Telepon</a></h4>
                             <p class="services-txt">
-                                <a href="tel:(+088)589-8745">(+62) 813-3190-7979</a><br>
-                                <a href="tel:(+088)222-9999">(+62) 856-0757-5713 </a>
+                                <a href="tel:(+62) 813-3190-7979">(+62) 813-3190-7979</a><br>
+                                <a href="tel:(+62) 856-0757-57139">(+62) 856-0757-5713 </a>
                             </p>
                         </div>
                     </div>

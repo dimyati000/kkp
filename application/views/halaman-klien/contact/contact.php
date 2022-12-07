@@ -51,7 +51,7 @@
                                             <div class="col-lg-12 mb-30">
                                                 <textarea class="from-control" id="message" name="message" placeholder="Message" required=""></textarea>
                                             </div>
-											<input class="from-control" type="hidden" id="telepon" name="telepon" value="081231539102">
+											<input class="from-control" type="hidden" id="telepon" name="telepon" value="081331907979">
 											</div>
                                         <div class="btn-part">                                            
                                             <div class="form-group mb-0">
@@ -166,7 +166,7 @@
                                             <div class="col-lg-12 mb-30">
                                                 <textarea class="from-control" id="message" name="message" placeholder="Pesan" required=""></textarea>
                                             </div>
-											<input class="from-control" type="hidden" id="telepon" name="telepon" value="081231539102">
+											<input class="from-control" type="hidden" id="telepon" name="telepon" value="081331907979">
 											</div>
                                         <div class="btn-part">                                            
                                             <div class="form-group mb-0">

@@ -51,12 +51,12 @@
 						<div class="col-lg-4 md-mb-10">
 							<h3 class="footer-title">Our service</h3>
 							<ul class="site-map">
-                                <li><a href="general-construction.html">Monthly Tax Reporting Consultation</a></li>
-                                <li><a href="property-maintenance.html">Annual Tax Reporting Consultation</a></li>
-                                <li><a href="project-managment.html">Consultation on Tax Issues</a></li>
-                                <li><a href="virtual-design-build.html">SP2DK Assistance</a></li>
-                                <li><a href="preconstruction.html">Accounting Services</a></li>
-                                <li><a href="design-build.html">Legal Services</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Monthly Tax Reporting Consultation</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Annual Tax Reporting Consultation</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Consultation on Tax Issues</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">SP2DK Assistance</a></li>
+                                <li><a href="<?= site_url('Jasa/akuntansi') ?>">Accounting Services</a></li>
+                                <li><a href="<?= site_url('Jasa/hukum') ?>">Legal Services</a></li>
                             </ul>
 						</div>
 					</div>
@@ -67,11 +67,11 @@
                     <div class="row y-middle">
                         <div class="col-lg-6 md-mb-10 text-lg-end text-center order-last">
                             <ul class="copy-right-menu">
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="<?= site_url('') ?>">Home</a></li>
                                 <li><a href="<?= site_url('Klien/about') ?>">About</a></li>
-                                <li><a href="services.html">Services</a></li>
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Services</a></li>
+                                <li><a href="<?= site_url('Blog') ?>">Blog</a></li>
+                                <li><a href="<?= site_url('Contact') ?>">Contact</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
@@ -137,12 +137,12 @@
 						<div class="col-lg-4 md-mb-10">
 							<h3 class="footer-title">Layanan Kami</h3>
 							<ul class="site-map">
-                                <li><a href="general-construction.html">Konsultasi Pelaporan Pajak Bulanan</a></li>
-                                <li><a href="property-maintenance.html">Konsultasi Pelaporan Pajak Tahunan</a></li>
-                                <li><a href="project-managment.html">Konsultasi Permasalahan Pajak</a></li>
-                                <li><a href="virtual-design-build.html">Pendampingan SP2DK</a></li>
-                                <li><a href="preconstruction.html">Jasa Akuntansi</a></li>
-                                <li><a href="design-build.html">Jasa Lawyer/Pengacara</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Konsultasi Pelaporan Pajak Bulanan</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Konsultasi Pelaporan Pajak Tahunan</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Konsultasi Permasalahan Pajak</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Pendampingan SP2DK</a></li>
+                                <li><a href="<?= site_url('Jasa/akuntansi') ?>">Jasa Akuntansi</a></li>
+                                <li><a href="<?= site_url('Jasa/hukum') ?>">Jasa Lawyer/Pengacara</a></li>
                             </ul>
 						</div>
 					</div>
@@ -153,16 +153,16 @@
                     <div class="row y-middle">
                         <div class="col-lg-6 md-mb-10 text-lg-end text-center order-last">
                             <ul class="copy-right-menu">
-                                <li><a href="index.html">Beranda</a></li>
+                                <li><a href="<?= site_url('') ?>">Beranda</a></li>
                                 <li><a href="<?= site_url('Klien/about') ?>">Tentang Kami</a></li>
-                                <li><a href="services.html">Layanan</a></li>
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="contact.html">Hubungi Kami</a></li>
+                                <li><a href="<?= site_url('Jasa/perpajakan') ?>">Layanan</a></li>
+                                <li><a href="<?= site_url('Blog') ?>">Blog</a></li>
+                                <li><a href="<?= site_url('Contact') ?>">Hubungi Kami</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
                             <div class="copyright text-lg-start text-center">
-                                <p>© 2022 KKP | Dirancang oleh <a href="#">Kantor Konsultan Pajak dan Hukum Eko & Rekan</a>
+                                <p>© 2022 KKP | Dirangcang oleh <a href="#">Kantor Konsultan Pajak dan Hukum Eko & Rekan</a>
                                     <!-- href="https://www.linkedin.com/in/nih-latulia-rohmah-tiyas-122128246/">Nih Latulia Rohmah Tiyas</a> -->
                                     
                             </div>
