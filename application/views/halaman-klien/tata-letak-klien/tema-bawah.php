@@ -4,7 +4,7 @@
 			<div class="footer-top">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-3 pr-20 md-pr-15 md-mb-20">
+						<div class="col-lg-4 pr-10 md-pr-15 md-mb-10">
 							<div class="footer-logo mb-51 md-mb-30">
 								<a href="index.html"><img src="<?php echo base_url() ?>assets/img/logo-kkp-removebg.png" alt=""></a>
 							</div>
@@ -22,7 +22,7 @@
                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>                     
                           	</ul>
 						</div>
-						<div class="col-lg-3 md-mb-10">
+						<div class="col-lg-4 md-mb-10">
 							<h3 class="footer-title">Contact Info</h3>
 							<ul class="address-widget">
                                 <li>
@@ -48,7 +48,7 @@
                                 </li>
                             </ul>
 						</div>
-						<div class="col-lg-3 md-mb-10">
+						<div class="col-lg-4 md-mb-10">
 							<h3 class="footer-title">Our service</h3>
 							<ul class="site-map">
                                 <li><a href="general-construction.html">Monthly Tax Reporting Consultation</a></li>
@@ -58,14 +58,6 @@
                                 <li><a href="preconstruction.html">Accounting Services</a></li>
                                 <li><a href="design-build.html">Legal Services</a></li>
                             </ul>
-						</div>
-						<div class="col-lg-3">
-							<h3 class="footer-title">Newsletter</h3>
-							<!-- <p class="widget-desc">Terpercaya dalam Kerahasiaan Data dan Kemudahan Pengusaha untuk mengatasi permasalahan dalam bidang sesuai kebutuhan klien.</p> -->
-							<p>
-                                <input type="email" name="email" placeholder="Your Email Address" required="">
-                                <input type="submit" value="Subscribe Now">
-                            </p>
 						</div>
 					</div>
 				</div>
@@ -100,7 +92,7 @@
 			<div class="footer-top">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-3 pr-20 md-pr-15 md-mb-20">
+						<div class="col-lg-4 pr-10 md-pr-15 md-mb-10">
 							<div class="footer-logo mb-51 md-mb-30">
 								<a href="index.html"><img src="<?php echo base_url() ?>assets/img/logo-kkp-removebg.png" alt=""></a>
 							</div>
@@ -116,7 +108,7 @@
                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>                     
                           	</ul>
 						</div>
-						<div class="col-lg-3 md-mb-10">
+						<div class="col-lg-4 md-mb-10">
 							<h3 class="footer-title">Info Kontak</h3>
 							<ul class="address-widget">
                                 <li>
@@ -142,7 +134,7 @@
                                 </li>
                             </ul>
 						</div>
-						<div class="col-lg-3 md-mb-10">
+						<div class="col-lg-4 md-mb-10">
 							<h3 class="footer-title">Layanan Kami</h3>
 							<ul class="site-map">
                                 <li><a href="general-construction.html">Konsultasi Pelaporan Pajak Bulanan</a></li>
@@ -152,14 +144,6 @@
                                 <li><a href="preconstruction.html">Jasa Akuntansi</a></li>
                                 <li><a href="design-build.html">Jasa Lawyer/Pengacara</a></li>
                             </ul>
-						</div>
-						<div class="col-lg-3">
-							<h3 class="footer-title">Newsletter</h3>
-							<!-- <p class="widget-desc">Terpercaya dalam Kerahasiaan Data dan Kemudahan Pengusaha untuk mengatasi permasalahan dalam bidang sesuai kebutuhan klien.</p> -->
-							<p>
-                                <input type="email" name="email" placeholder="Your Email Address" required="">
-                                <input type="submit" value="Subscribe Now">
-                            </p>
 						</div>
 					</div>
 				</div>
