@@ -8,7 +8,7 @@
                 <!-- <a href="/"> -->
                 <!-- <img style="width: 30%;"; class="normal-logo" src="<?php echo base_url() ?>assets/img/logo-kkp-removebg.png"
 									alt="logo"> -->
-                <img style="width: 30%" ; class="sticky-logo"
+                <img style="width:30%" class="sticky-logo"
                     src="<?php echo base_url() ?>assets/img/logo-kkp-removebg.png" alt="logo">
                 <!-- </a> -->
                 <!-- </div> -->
@@ -103,6 +103,31 @@
     </div>
     <!-- //.nav-menu -->
     <ul class="nav-menu">
+    <div class="canvas-contact">
+            <div class="address-area">
+                <div class="address-list">
+                    <div class="info-icon">
+                        <li class="menu-item-has-children" style="align:center; justify:center">
+
+                        <a href="<?php echo site_url('Klien/translate/in'); ?>">
+                                <img style="width:25%" src="<?php echo base_url() ?>assets/img/bahasa-id.png">
+                            <em> ID</em>
+                            <!-- <em class="ml-5">ID</em> -->
+                            </a>
+                        </li>
+                    </div>
+                    <div class="info-icon">
+                    <li class="menu-item-has-children" style="align:center; justify:center">
+                        <a class="" href="<?php echo site_url('Klien/translate/en'); ?>">
+                            <img style="width:25%" src="<?php echo base_url() ?>assets/img/bahasa-uk.png">
+                            <em> EN</em>
+                            <!-- <em class="ml-5">EN</em> -->
+                        </a>
+                    </li>
+                    </div>
+                </div>
+            </div>
+        </div>
         <li class="menu-item-has-children current-menu-item">
             <a href="index.html">Home</a>
         </li>
@@ -161,6 +186,7 @@
     <!-- //.canvas-contact -->
 </nav>
 <!-- Canvas Menu end -->
+
 <?php }else{ ?>
 <!-- Menu Start -->
 <div class="menu-area menu-sticky">
@@ -171,7 +197,7 @@
                 <!-- <a href="/"> -->
                 <!-- <img style="width: 30%;"; class="normal-logo" src="<?php echo base_url() ?>assets/img/logo-kkp-removebg.png"
 									alt="logo"> -->
-                <img style="width: 30%" ; class="sticky-logo"
+                <img style="width:30%" class="sticky-logo"
                     src="<?php echo base_url() ?>assets/img/logo-kkp-removebg.png" alt="logo">
                 <!-- </a> -->
                 <!-- </div> -->
@@ -266,6 +292,32 @@
     </div>
     <!-- //.nav-menu -->
     <ul class="nav-menu">
+        <div class="canvas-contact">
+            <div class="address-area">
+                <div class="address-list">
+                    <div class="info-icon">
+                        <li class="menu-item-has-children" style="align:center; justify:center">
+
+                        <a href="<?php echo site_url('Klien/translate/in'); ?>">
+                                <img style="width:25%" src="<?php echo base_url() ?>assets/img/bahasa-id.png">
+                            <em> ID</em>
+                            <!-- <em class="ml-5">ID</em> -->
+                            </a>
+                        </li>
+                    </div>
+                    <div class="info-icon">
+                    <li class="menu-item-has-children" style="align:center; justify:center">
+                        <a class="" href="<?php echo site_url('Klien/translate/en'); ?>">
+                            <img style="width:25%" src="<?php echo base_url() ?>assets/img/bahasa-uk.png">
+                            <em> EN</em>
+                            <!-- <em class="ml-5">EN</em> -->
+                        </a>
+                    </li>
+                    </div>
+                </div>
+            </div>
+        </div>
+      
         <li class="menu-item-has-children current-menu-item">
             <a href="index.html">Beranda</a>
         </li>
