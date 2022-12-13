@@ -247,8 +247,7 @@
 					<ul class="pricing-table-features-list">
 						<li>
 							<span class="feature-text">Peran advokat atau pengacara melakukan pendampingan hukum kepada
-								klien baik dalam posisi sebagai pelapor/korban maupun sebagai
-								terlapor/tersangka/terdakwa dalam pidana umum maupun pidana khusus.</span>
+								klien baik dalam posisi sebagai pelapor / korban maupun sebagai terlapor / tersangka / terdakwa dalam pidana umum maupun pidana khusus.</span>
 						</li>
 					</ul>
 					<div class="btn-part mt-45 md-mt-30 text-center">
