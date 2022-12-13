@@ -415,7 +415,7 @@
 					</div>
 					<ul class="pricing-table-features-list">
 						<li>
-							<span class="feature-text">Pajak penghasilan Pasal 21 (PPh 21), Pajak Penghasilan Pasal 23
+							<span class="justify">Pajak penghasilan Pasal 21 (PPh 21), Pajak Penghasilan Pasal 23
 								(PPh 23), Pajak Penghasilan Pasal 25/26 (PPh 25/26), PPh Final berdasarkan PP No.23
 								Tahun 2018, Pajak Pertambahan Nilai (PPN).</span>
 						</li>
