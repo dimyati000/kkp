@@ -10997,26 +10997,25 @@ body .search-modal .close:hover {
 --------------------------*/
 #scrollUp {
   text-align: center;
-  bottom: 40px;
-  cursor: pointer;
-  display: none;
-  position: fixed;
-  right: 20px;
-  z-index: 999;
-  border-radius: 50px 50px 4px 4px;
+	bottom: 40px;
+	cursor: pointer;
+	display: none;
+	position: fixed;
+	right: 20px;
+	z-index: 999;
+	border-radius: 50px 50px 4px 4px;
 }
 #scrollUp i {
   height: 40px;
-  font-size: 24px;
-  width: 42px;
-  border-radius: 0;
-  color: #010d14;
-  line-height: 36px;
-  transition: all 0.3s ease 0s;
-  background: #FFB703;
-  margin-left: 2px;
-  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.04);
-  display: block;
+	font-size: 24px;
+	width: 42px;
+	border-radius: 0;
+	color: @title-color;
+	line-height: 36px;
+	transition: all 0.3s ease 0s;
+	margin-left: 2px;
+	box-shadow: 0px 0px 2px rgba(0,0,0,0.04);
+	display: block;
 }
 #scrollUp i:before {
   font-weight: 900;

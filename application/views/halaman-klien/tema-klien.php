@@ -47,7 +47,11 @@
 
 		<!-- start scrollUp  -->
 		<div id="scrollUp">
-			<i class="fa fa-angle-up"></i>
+		<li>	
+				<a href="https://wa.me/+6287856444475" target="_blank">
+				<img style="width:40%"
+				src="<?php echo base_url() ?>assets/img/wa.png" alt="images">
+		</li>	
 		</div>
 		<!-- End scrollUp  -->
 
