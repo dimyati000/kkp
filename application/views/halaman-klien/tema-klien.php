@@ -46,12 +46,10 @@
 		<?php include('tata-letak-klien/tema-bawah.php') ?>
 
 		<!-- start scrollUp  -->
-		<div id="scrollUp">
-		<li>	
-				<a href="https://wa.me/+6287856444475" target="_blank">
-				<img style="width:40%"
+		<div id="scrollUp">	
+				<a href="https://api.whatsapp.com/send?phone=6281331907979&text=Halo%20admin%20Kantor%20Konsultan%20Pajak%20dan%20Hukum%20terdaftar%20Eko%20dan%20rekan,%20saya%20mau%20tanya%20....." target="_blank">
+				<img style="width:60%"
 				src="<?php echo base_url() ?>assets/img/wa.png" alt="images">
-		</li>	
 		</div>
 		<!-- End scrollUp  -->
 
